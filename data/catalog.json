@@ -1,0 +1,1735 @@
+{
+  "model": "Kling Image 4.0",
+  "examples": [
+    {
+      "slug": "summer-park-reading",
+      "category": "photography",
+      "title": {
+        "en": "Reading in a summer park",
+        "zh": "夏日公园读书照",
+        "ja": "夏の公園で読書する人物"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20young%20woman%20in",
+      "outputs": [
+        "https://static--20.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/2b2581f9e1daf6ae0089a3b129f7a5b90abbeb6edab5243cd662b62a187ee270.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "tabby-sofa",
+      "category": "photography",
+      "title": {
+        "en": "Tabby on a charcoal sofa",
+        "zh": "深灰沙发上的橘猫",
+        "ja": "チャコール色のソファに座る猫"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20casual%20snapshot",
+      "outputs": [
+        "https://static--47.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/6ea519232bf6cbc1c25d73c17222482bb7359025bb68d8d28aa41fa536dde61d.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "cream-poodle",
+      "category": "photography",
+      "title": {
+        "en": "Street portrait with a poodle",
+        "zh": "抱贵宾犬的街头肖像",
+        "ja": "プードルを抱いたストリートポートレート"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20young%2C%20elegant",
+      "outputs": [
+        "https://static-39.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/fc6b632f5685443affedb5876e65a68bdaf7f51f3d68ab7d42177ce69dd86a8e.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "treetop-perspective",
+      "category": "photography",
+      "title": {
+        "en": "Upward view through the canopy",
+        "zh": "仰拍树冠",
+        "ja": "樹冠を見上げる構図"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Looking%20upward%20from",
+      "outputs": [
+        "https://static--8.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/f8f1a578d9dd8391355f642950275ea9929c686a9241c2fa94e62f64e3204422.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "zhous-character-portrait",
+      "category": "photography",
+      "title": {
+        "en": "Character portrait of Zhou",
+        "zh": "周惠珍角色肖像",
+        "ja": "周惠珍のキャラクターポートレート"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Zhou%20Huizhen%2C%2046%2C",
+      "outputs": [
+        "https://static-54.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/6eac8b61445f696d820df07f53f2f884788c39c12d658894101a06c7316a4a37.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "mechanic-character",
+      "category": "photography",
+      "title": {
+        "en": "Mechanic character portrait",
+        "zh": "修理工角色肖像",
+        "ja": "整備士のキャラクターポートレート"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Mark%2C%2048%2C%20a",
+      "outputs": [
+        "https://static-46.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/97ed309f456f895964ad9fe05b0a0f546f52887df956678241082ca17252fb7e.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "western-character",
+      "category": "photography",
+      "title": {
+        "en": "Male character studio portrait",
+        "zh": "男性角色棚拍",
+        "ja": "男性キャラクターのスタジオポートレート"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20handsome%20young",
+      "outputs": [
+        "https://static-90.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/680acd7706947bbe52dec2dbfd139696ba095fe6e66ecc7271e6b58ca3dd982a.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "female-character",
+      "category": "photography",
+      "title": {
+        "en": "Female character portrait",
+        "zh": "女性角色肖像",
+        "ja": "女性キャラクターのポートレート"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20beautiful%20young%20East",
+      "outputs": [
+        "https://static-98.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/4ada6d36293cacf7610c56da616f7838edd73a6437124200365af7cf1fb6634b.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "demon-idol",
+      "category": "photography",
+      "title": {
+        "en": "Demon-inspired character design",
+        "zh": "恶魔偶像设定",
+        "ja": "悪魔をモチーフにしたアイドルデザイン"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20sweet%2Dbut%2Dedgy%20demon%2Dinspired",
+      "outputs": [
+        "https://static-80.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/57c45b8dee0d6003403fe899c50970877c5469fe5b400ca91c5ac389ad7377cf.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "fantasy-inquisitor",
+      "category": "photography",
+      "title": {
+        "en": "Fantasy inquisitor design",
+        "zh": "奇幻审判官设定",
+        "ja": "ファンタジーの審問官デザイン"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20high%2Dranking%20inquisitor",
+      "outputs": [
+        "https://static-58.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/838e51eb4e8fa6a65cc3da881f5786f8f105cad86442f3234ca96c0751ec19b3.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "fantasy-creature",
+      "category": "photography",
+      "title": {
+        "en": "Fantasy creature design",
+        "zh": "奇幻生物设定",
+        "ja": "架空の生き物のデザイン"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20fantasy%20creature",
+      "outputs": [
+        "https://static-83.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/5871fcf442e1befd53943949c915a3df7be0ac9e3233431e86ad70d412367621.jpg"
+      ],
+      "references": []
+    },
+    {
+      "slug": "character-archer",
+      "category": "photography",
+      "title": {
+        "en": "Archer character design",
+        "zh": "弓手角色设定",
+        "ja": "弓使いのキャラクターデザイン"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20young%20East%20Asian%20man%20draws",
+      "outputs": [
+        "https://static--52.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/db0df591a1f47506ac58100166068fb6637ccc51ebdcc6144025a15858358d3e.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "character-reference-sheet",
+      "category": "reference-edit",
+      "title": {
+        "en": "Character reference sheet",
+        "zh": "角色参考设定图",
+        "ja": "キャラクター設定資料"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Generate%20a%20multi%2Dview",
+      "outputs": [
+        "https://static-76.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/b4c4655856e1fa7641c3cb9dae690a644f0df0cc87258e2be27020bc81748ff1.png"
+      ],
+      "references": [
+        "https://static-60.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/ceb3f29f06cba490342dfa876fae0b2d6f0b9d96d383eaf96e71c5fb2d46416c.png"
+      ]
+    },
+    {
+      "slug": "white-background-turnaround",
+      "category": "reference-edit",
+      "title": {
+        "en": "White-background character views",
+        "zh": "白底角色三视图",
+        "ja": "白背景のキャラクター三面図"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Based%20on%20the%20appearance",
+      "outputs": [
+        "https://static-17.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/83d6addc379cd8edb71d1ed6c6b3ddc9bccf3de76acada03c486d9c79e640f5f.png"
+      ],
+      "references": [
+        "https://static--43.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/8f38f3a928dba1c24126778184e1a240d17bf0b34f7a446f5f32cba63f1f095d.png"
+      ]
+    },
+    {
+      "slug": "matching-character-grid",
+      "category": "reference-edit",
+      "title": {
+        "en": "Four characters in one grid",
+        "zh": "同画风四角色拼图",
+        "ja": "同じ画風のキャラクター四分割"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Using%20the%20visual%20art%20style%20of%20the%20reference%20image%2C%20generate%20a%202%C3%972",
+      "outputs": [
+        "https://static-40.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/0424dcb5048366944034eaa5cd873c54b314b63a98bd056037e54b952f83cad9.png"
+      ],
+      "references": [
+        "https://static-48.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/807a10b42fc4e18395bf08a19e595a902b0cd0b52885c7dadfa261a861b75aed.png"
+      ]
+    },
+    {
+      "slug": "pirate-cast-lineup",
+      "category": "reference-edit",
+      "title": {
+        "en": "Animal pirate character lineup",
+        "zh": "拟人动物海盗阵容",
+        "ja": "動物の海賊キャラクター一覧"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Following%20the%20character",
+      "outputs": [
+        "https://static--73.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/452173bbfa08fe088caa46e423b0a2fa4781746b7a61ad9a72584fb0925206e8.png"
+      ],
+      "references": [
+        "https://static--18.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/277de64b2450e49009c399ea70ca5849d4be1827e90661f05c1352459ec60971.png"
+      ]
+    },
+    {
+      "slug": "first-character-turnaround-series",
+      "category": "image-set",
+      "title": {
+        "en": "Matching character views, set one",
+        "zh": "同版式角色视图第一组",
+        "ja": "同じ形式のキャラクター三面図・第1組"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Using%20the%20close%2Dup%20and%20three%2Dview%20layout%20of%20the%20reference%20character%2C%20generate%20a",
+      "outputs": [
+        "https://static-29.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/9051687a4f98fc00eda993363b2e0115ce3b4a71a23048bd695605649473d971.png",
+        "https://static-80.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/e469c610864c6c143a091fff34bc240c57fc47d3d67d0ce98ff688ad3497ab99.png",
+        "https://static--48.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/69bc12f7bb042e2b2ea34682a73186f507a3bfe17a956ecc4b44fd9671f368c0.png"
+      ],
+      "references": [
+        "https://static--34.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/2cf32ed70ee80731f67a32506e8ebc07ecdd08d24f13be64ea736883ab0a5f37.png"
+      ]
+    },
+    {
+      "slug": "second-character-turnaround-series",
+      "category": "image-set",
+      "title": {
+        "en": "Matching character views, set two",
+        "zh": "同版式角色视图第二组",
+        "ja": "同じ形式のキャラクター三面図・第2組"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Using%20the%20close%2Dup%20and%20three%2Dview%20layout%20of%20the%20reference%20character%2C%20generate%20a",
+      "outputs": [
+        "https://static-46.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/3e56259b9ed604b93715ae1407799b9f847275d85816f7579a7ae194ccef4ec0.png",
+        "https://static-48.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/0cba50655315161a84c462419a133b53399d0bece81e5a5f2686a64ec40bdcc0.png",
+        "https://static-45.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/8a81116d029b58215be8a5ed5cf160d1565da72163beb38682500d0a373040a3.png"
+      ],
+      "references": [
+        "https://static--36.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/801fb9ee7bdb5d003bb7ec0d310c7d38b18e2356da4e84a598bd0ded0c340032.png"
+      ]
+    },
+    {
+      "slug": "school-group",
+      "category": "photography",
+      "title": {
+        "en": "School uniform group portrait",
+        "zh": "校服学生合照",
+        "ja": "制服姿の生徒たちの集合写真"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Five%20young%20East",
+      "outputs": [
+        "https://static--53.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/356c928cd4ee77f0aadf87daa1b82b2f2df8d04c9cb4acc112e002a7c27b6b85.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "eight-friends-portrait",
+      "category": "photography",
+      "title": {
+        "en": "Eight friends in a group portrait",
+        "zh": "八人合影",
+        "ja": "8人の友人の集合写真"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Eight%20young%20men%20and%20women%20gather%20in%20a%20photography%20studio%2C%20seated%20in",
+      "outputs": [
+        "https://static--41.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/d47e661f2a339756259b9153e8f71b0f2c88f154ca3b3df652ba4a67c1c2f54b.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "retro-fashion-cover",
+      "category": "photography",
+      "title": {
+        "en": "Retro fashion magazine group cover",
+        "zh": "复古时装杂志合照",
+        "ja": "レトロなファッション誌の集合写真"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20retro%20fashion",
+      "outputs": [
+        "https://static--79.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/6eb33607840d587b78f1f759fa384517acbf6383f1e90100cc5c6e75d512ba47.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "industrial-action-storyboard",
+      "category": "image-set",
+      "title": {
+        "en": "Industrial action sequence",
+        "zh": "工业空间动作分镜",
+        "ja": "工業施設を舞台にしたアクション絵コンテ"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20battle%20sequence",
+      "outputs": [
+        "https://static-56.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/cea153535c28f47526efbd25febb90c986d80a0b1366667ee6dcb0d6db01abe8.png",
+        "https://static--81.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/289f4ef624f2026e3e997f6a8af471e4754d6c17c3db909e0ad93c03b38c9eda.png",
+        "https://static-0.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/58738efa5304d8986f5d3dae7026d6fbb10603cd7bdf72bf505403afbe847369.png",
+        "https://static--49.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/8546578c52d343305b2c5f749cd683a30abff94c35dda46afb27d787208414b5.png",
+        "https://static-64.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/83464713055555729f53157401d7f2fd040705c6c56d4a982d5e77fad27548c7.png",
+        "https://static-7.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/2e8e1ca35ec3ca858420ac38a2085b02a2794822963568663488dd72ad3479af.png",
+        "https://static--11.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/44e4df71207531bc0b1cff2180252ccea0f8b428c1750dc8a9ca2004796444f2.png",
+        "https://static--98.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/0f0791de2785988c81eaa95765638bcf85882fb727e17b7ccab6c71629f7a770.png",
+        "https://static-41.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/b379e975ab0f31ec3f6b83ca051ed96afd7a4090265892911b088014acbcf97f.png"
+      ],
+      "references": [
+        "https://static--94.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/76f8201ed9aedbc4e713a707e469ceba5aa50514d97efea815d593ce6186b3fe.png"
+      ]
+    },
+    {
+      "slug": "railway-animation-storyboard",
+      "category": "image-set",
+      "title": {
+        "en": "Railway animation storyboard",
+        "zh": "火车站动画分镜",
+        "ja": "駅を舞台にしたアニメーション絵コンテ"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Frame%201%3A%20An",
+      "outputs": [
+        "https://static-45.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/a354d892bec6f11c8c9622074e0eef4de2fb039c6a8076f7ccd0d1807f756306.png",
+        "https://static--50.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/deeeb94f2e02ced92f076936877b0bde6845ef6c407bba27ecb3ea05f24fe23b.png",
+        "https://static--84.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/b03ef1aba36f464101712fc61e28c15b78a781abdd2e07cf3d09d946c0bcbbe0.png",
+        "https://static--14.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/36d8ef8bf40b74bda46a9c66757e1f4135bf5bd50d9f986e0a94adf9c7308ba0.png",
+        "https://static-96.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/ceb4a4e31296b6680b5c09e25b1ebff0d121413a407558c2a4ff65a3823a51e4.png",
+        "https://static-18.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/86a4575ca025a946fbeaa25c8209134018ed6edb011dd5be5cd6d9d59081fa9b.png",
+        "https://static-93.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/0895ba81b1ba0378cec0e4f0559a452bb29105cc2b19f8f2757625a4277ca06f.png",
+        "https://static--68.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/5c88f40f9d7c552f841720e418afef1f19a280d3157b7b296817d52034384d44.png",
+        "https://static--35.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/274b8c1b6476bdae3dc9d261e24ea4187bc65ad325e0245f01e932dad54d2dc0.png"
+      ],
+      "references": [
+        "https://static-63.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/5844595c01e02f42581b4a495994547547928029c6b256bc755a0dd5b9fa3cb3.png"
+      ]
+    },
+    {
+      "slug": "musical-storyboard",
+      "category": "image-set",
+      "title": {
+        "en": "Romantic musical storyboard",
+        "zh": "浪漫音乐剧分镜",
+        "ja": "恋愛ミュージカルの絵コンテ"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20storyboard%20for",
+      "outputs": [
+        "https://static-31.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/cef4ad057f911747f99e11ca874522b151b015f5895af54e1781c2368dcf96bb.png",
+        "https://static-99.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/ee157a069cf11b6c892c3037d3748150514d61943f0140ce4f352ba90846eb64.png",
+        "https://static-37.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/41967030dafec8b2bfea65b4a8fe9d9099157d2139537f5ede804556ebd261d3.png",
+        "https://static-25.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/ebaf55a2a6df8e2d300abbcf5a3b975e33bc1f7edef15ac8bcfaba6f6b18dfeb.png",
+        "https://static-14.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/1405417424eeb437dfec035f2e74f1d78a290477a765b69f999142b2e6604784.png",
+        "https://static--96.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/32fd8c9b3a4784247985e9511033a6e6557ac7a95d684eeeced1d6ab30ecc52c.png"
+      ],
+      "references": [
+        "https://static--34.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/2cf32ed70ee80731f67a32506e8ebc07ecdd08d24f13be64ea736883ab0a5f37.png"
+      ]
+    },
+    {
+      "slug": "horror-storyboard",
+      "category": "image-set",
+      "title": {
+        "en": "Horror film storyboard",
+        "zh": "恐怖片分镜",
+        "ja": "ホラー映画の絵コンテ"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Generate%20a%20set%20of%208",
+      "outputs": [
+        "https://static-80.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/f75eaec8b96c0f68343356c56b9ee53423ebdb263e347381ee04bdfefa4f36cc.png",
+        "https://static--47.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/26888a346b9355c3f1617eecc34559726fb5c4e962ca565fd0d5137b2890bfb6.png",
+        "https://static--11.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/1f0ef5227ac30a38ecc5f59689941a8fca1576e9b1de28f795544d7a41485b50.png",
+        "https://static--35.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/b5b72a3d39c9a06dfd5fc8bfca421179b63a24d40a19fd733919d2f0078df5f5.png",
+        "https://static-49.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/5675eb8153acc109d28ee66cdcca16fc79eb65165200a5d4c73edb698c64d001.png",
+        "https://static-10.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/9f670cf8fd2f69d3cb0cbfdfc6ffb77699d632855b51e889f46656de6a7ae603.png",
+        "https://static-23.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/6c77c1d5e4a3a6611445d2630b70961a43ebcd776c70c20389e7e07e4384db56.png",
+        "https://static--44.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/474f051b2e09c61892cac1df66139164a29d562f2af24d7d961330bfd6ecda0b.png"
+      ],
+      "references": [
+        "https://static-53.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/1d650a709d07a4523fb48715938d65f8fa8d535c3ada3bb04e00997493024e60.png"
+      ]
+    },
+    {
+      "slug": "art-house-storyboard",
+      "category": "image-set",
+      "title": {
+        "en": "Art-house film stills",
+        "zh": "艺术电影分镜",
+        "ja": "アート映画のスチルシリーズ"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Generate%20a%20set%20of%2010",
+      "outputs": [
+        "https://static-18.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/b1b26e7703f33405d3d05b8ffda6e6c921b7ff58ee5f4a6a6df7e11f485f65a3.png",
+        "https://static-73.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/d0f979011dbaa44b119c0f9992ca42e0724d252738363cfb94e5fef514aaffde.png",
+        "https://static-81.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/47f7246c8a05b9d5aad6821ca0bf3fb1de686ac4ef417239fd799d99e7c3df55.png",
+        "https://static-75.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/dfb4d0b1c759fdf6857591127ac471f06f71043d80fdda278f05d12a7d85f5f6.png",
+        "https://static-0.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/a4c96d302335dabdf697908086ccf404c50584202b17c8a0fe464ae017711f80.png",
+        "https://static-20.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/17a965883c1369f28743261e500c5a6974f355844e26ea907b71801d4076a5c9.png",
+        "https://static--47.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/b4cf5abc77f2a1b14351e1d1dd259893e622410c96872519a86bb6d9407f70f6.png",
+        "https://static-71.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/54c279de7d9cba6dbf166324475d5ea11831a0f3121f8e51387fe14e942c035e.png",
+        "https://static--18.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/f4eabb6c130648542a669b4042baaccbf6e4cc203c4d3a9bd99fde0e8c39cef5.png",
+        "https://static--46.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/9616aeb8119a754c6da0d8cf8dec10a2c7a1800385d5d894a382646178ebe438.png"
+      ],
+      "references": [
+        "https://static--34.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/2cf32ed70ee80731f67a32506e8ebc07ecdd08d24f13be64ea736883ab0a5f37.png",
+        "https://static--22.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/616946c04ffba4e2eb893c711366eea92da5efa65220ee3e73b464f86a4dcff6.png"
+      ]
+    },
+    {
+      "slug": "landscape-scenes",
+      "category": "image-set",
+      "title": {
+        "en": "Landscape environment series",
+        "zh": "自然地貌场景组图",
+        "ja": "自然風景のシリーズ"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Using%20the%20visual%20art%20style%20of%20the%20reference%20image%2C%20generate%20a%20set",
+      "outputs": [
+        "https://static--37.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/560e6f38a7a28877940aa8ed1cc5b3714316a519afb90356d66754a74da1823e.png",
+        "https://static-51.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/79d540305026b6530239d7d2f67b8094b19d2621f39300bdbda709d6355fa01e.png",
+        "https://static--65.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/a692b686d0d8931ae99641de8a365076a15087ed28a216d2e1b566045429f945.png",
+        "https://static-89.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/3ca51974588ccc68f9d67bc12c6b668a7dbda77a5891c8982de31365ea06dece.png",
+        "https://static-92.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/555926f410c044544aa0568cb3005d53b5dba63a340fc5957b9dacbbecc48f90.png",
+        "https://static--22.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/3e04a260312127726d3842ae0b29e4b1d69b1cf5ae63ac1b14508caa783be8e1.png"
+      ],
+      "references": [
+        "https://static--35.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/9b93f14bc071095227bbc2b6964660082c9b2de9ae286f0bd402d2439047fa2e.png"
+      ]
+    },
+    {
+      "slug": "school-scenes",
+      "category": "image-set",
+      "title": {
+        "en": "School environment series",
+        "zh": "校园场景组图",
+        "ja": "校内外の風景シリーズ"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Using%20the%20visual%20art%20style%20of%20the%20reference%20image%2C%20generate%20a%20set",
+      "outputs": [
+        "https://static--88.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/1af6eba676bbabbdab084377833932d95d64a14075663505845311838a83ef69.png",
+        "https://static-56.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/3c9920b252685361fc3deeb051949c4a3826a0be49e55572045facaac768c39e.png",
+        "https://static--16.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/40cda21aa35b8e7af69379a09c7c6d3c7f3f23af00277622c8280dc7b4013bea.png",
+        "https://static-32.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/19ddfa3cbba2bf0e53db9833cb20002d8f170345ea07a25bfe533cebeb73e9a6.png",
+        "https://static-11.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/60a678dc453efa15d292d51b7567476d3cf4ee80470cf251e09b402be5695351.png",
+        "https://static--89.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/658160d31d1c3aa3324a8f80e7be507924d9162bc792c667c1242b6e8b993772.png"
+      ],
+      "references": [
+        "https://static--57.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/303079a8f57dbe60a91bcc8b2fd4dc90438be11025fcab96401053019f272fd4.png"
+      ]
+    },
+    {
+      "slug": "documentary-street-portrait",
+      "category": "photography",
+      "title": {
+        "en": "Documentary street portrait",
+        "zh": "纪实街头肖像",
+        "ja": "ドキュメンタリー風の街頭ポートレート"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=3%3A4%20vertical%20composition%2C%20a%20close%2Dup",
+      "outputs": [
+        "https://static-60.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/93b8dd374138974ec337c2e4c8d63a0d60cf89547afe96496379dbb24a13d4dd.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "front-facing-documentary",
+      "category": "photography",
+      "title": {
+        "en": "Front-facing documentary portrait",
+        "zh": "正面纪实肖像",
+        "ja": "正面からのドキュメンタリーポートレート"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=3%3A4%20vertical%20composition%2C%20a%20straight%2Don",
+      "outputs": [
+        "https://static--47.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/b1c88f6d9ab114b257a948d8ab0aab7c14edcf27ada24b3f922aa8cf9e14689e.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "everyday-documentary",
+      "category": "photography",
+      "title": {
+        "en": "Everyday documentary still",
+        "zh": "日常纪实画面",
+        "ja": "日常を切り取ったドキュメンタリー写真"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=3%3A4%20vertical%20composition%2C%20a%20realistic%20documentary%20photograph%20of%20an%20urban",
+      "outputs": [
+        "https://static-92.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/793096584c471ab0dc421cbc98d73c7ed6bfbc7dad814a0c58edd3ccdca2ae48.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "documentary-character",
+      "category": "photography",
+      "title": {
+        "en": "Documentary character study",
+        "zh": "纪实人物观察",
+        "ja": "ドキュメンタリー風の人物写真"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=3%3A4%20vertical%20composition%2C%20a%20realistic%20documentary%20photograph%20of%20an%20old",
+      "outputs": [
+        "https://static--56.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/43dbdc79401f4ab67060170b2c892024571951cfeb6ae638ec1623e2942d2f35.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "waterside-cover",
+      "category": "typography",
+      "title": {
+        "en": "Waterside cover design",
+        "zh": "水边封面设计",
+        "ja": "水辺のカバーデザイン"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=An%20outdoor%20body",
+      "outputs": [
+        "https://static--29.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/2826729857c4436c62d6c0924371c9f05caae8a6a6f7e4a8e584136bba2c931f.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "illustrated-character-poster",
+      "category": "typography",
+      "title": {
+        "en": "Illustrated character poster",
+        "zh": "卡通角色海报",
+        "ja": "イラストキャラクターのポスター"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20slender%20cartoon",
+      "outputs": [
+        "https://static-82.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/07c3e57933080f7b2777096d3425f3aab7b313030fa92fc38090b33f95e1aa1d.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "collage-brand-design",
+      "category": "typography",
+      "title": {
+        "en": "Minimal collage brand design",
+        "zh": "极简拼贴品牌图",
+        "ja": "ミニマルなコラージュのブランドデザイン"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20minimalist%20digital",
+      "outputs": [
+        "https://static-33.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/642c149adea2199e56bfa462c85e89681ccd2c413d8f5ed89afc3c11930070b7.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "japanese-graphic-poster",
+      "category": "typography",
+      "title": {
+        "en": "Japanese-inspired graphic poster",
+        "zh": "日式平面海报",
+        "ja": "日本風のグラフィックポスター"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20minimalist%20Japanese%2Dinspired",
+      "outputs": [
+        "https://static-50.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/75a4207e7b03c5854f0db762d581bc00f1ad4fe80c82a3e75251278c86765580.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "product-still-life",
+      "category": "reference-edit",
+      "title": {
+        "en": "Reference-led product still life",
+        "zh": "参考图驱动的商品静物",
+        "ja": "参照画像を使った商品写真"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20still%2Dlife%20arrangement",
+      "outputs": [
+        "https://static-41.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/f83b2071ab0ef1f1ee8bb0c6355efc324b450623b36db6bb1ec695f16c5e3ca0.png"
+      ],
+      "references": [
+        "https://static--60.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/8650e9becc392a53feacd928404d7a9162525c2a14ae089641d2de9390ecbacf.png"
+      ]
+    },
+    {
+      "slug": "lifestyle-product",
+      "category": "reference-edit",
+      "title": {
+        "en": "Photoreal product lifestyle scene",
+        "zh": "写实商品生活场景",
+        "ja": "写実的な商品の使用シーン"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Generate%20a%20photorealistic",
+      "outputs": [
+        "https://static--43.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/e4ce0162b1ed43534f248c4b2a3a10255e3fddb32341e3b0cb628c7449981b79.png"
+      ],
+      "references": [
+        "https://static--21.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/7614b3de1271ca9cee6ee6caa60963fbda37763ee1b2a06c3d095347f4ec105d.png"
+      ]
+    },
+    {
+      "slug": "retro-product-treatment",
+      "category": "reference-edit",
+      "title": {
+        "en": "Retro product styling from two references",
+        "zh": "双参考复古商品图",
+        "ja": "参照画像2枚を使ったレトロな商品写真"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Using%20the%20retro",
+      "outputs": [
+        "https://static--14.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/9f3db8455b068d01b9f2a919a230df9a0910bc4a1c3033c4b53aed84c45ba546.png"
+      ],
+      "references": [
+        "https://static-45.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/1504a76fc24a44b96eb6098a6cc232068f986daedd5eb1387b27a5138ba940c2.png",
+        "https://static--73.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/0a5854bc72d9b0d0968750548b4ca1163d16be121107f92f19127d3fc92f0c03.png"
+      ]
+    },
+    {
+      "slug": "illustration-product-render",
+      "category": "reference-edit",
+      "title": {
+        "en": "Render an illustrated product idea",
+        "zh": "将商品插画转成效果图",
+        "ja": "商品イラストを完成イメージに変換"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Render%20the%20illustration",
+      "outputs": [
+        "https://static-95.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/69841c1d19777da0ca2e5422535df59c39375a2bc8519ff4814baa45fff97421.png"
+      ],
+      "references": [
+        "https://static-84.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/d8ea2f10712a01e7d0f1267b54dec066ffd842b03de8f07f8a8eefba56380df7.jpg",
+        "https://static-6.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/5beb94a53b8e6120a326b3a149530234714ee26e614d2c374b233e46a8a37674.png"
+      ]
+    },
+    {
+      "slug": "virtual-tryon-outfit",
+      "category": "reference-edit",
+      "title": {
+        "en": "Multi-reference outfit try-on",
+        "zh": "多参考服装试穿",
+        "ja": "複数の参照画像を使った試着イメージ"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=The%20model%20is",
+      "outputs": [
+        "https://static--60.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/f22e8d7e8202348fed3fd2a86eb7b09a28e97fab346093f35b859562d94036cd.png"
+      ],
+      "references": [
+        "https://static-67.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/a5208969f0d2ca577f246c68b684d5e978507085ca65b03abc379ee2303d0a48.png",
+        "https://static--62.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/016d312ca6bdbdb0a7e113dbdc11cd804ab6f8b528bb80140105ac1f22466b89.png",
+        "https://static--63.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/4c11b32252a827c2d3b8b395d04b8d57870b5bd65168d0e23835a028b90afc6e.png",
+        "https://static-56.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/c3481bdedea4d0695ccd54631bc606674d0b00d857f50f62d154df2a2003b46b.png"
+      ]
+    },
+    {
+      "slug": "street-fashion-tryon",
+      "category": "reference-edit",
+      "title": {
+        "en": "Retro street fashion try-on",
+        "zh": "复古街头穿搭试穿",
+        "ja": "レトロなストリートファッションの試着イメージ"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Retro%20street%2Dstyle%20fashion",
+      "outputs": [
+        "https://static--25.klingai-cdn-aws.com/kling-blog/file_by_url/6cc22afa1610d381333c5dfeca861088b1669dfcd591bec83cfc349cb7484e09.png?x-oss-process=image/resize,w_1872"
+      ],
+      "references": [
+        "https://static-13.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/6b6b0f6711e38578462e44dd08ae1c49afafcfd475eaaf18e6596f9dce84453c.png",
+        "https://static-29.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/43341e8de8cd603aaece146810f8bb699de02269a899dbf5965ef7473ef7cb02.png",
+        "https://static-14.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/40eae28475d77ffaaf468a493569101bb34ce4f1555f879d5fb9a96a60ba33e0.png",
+        "https://static-30.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/9fcff3852fcf816fbc9a282fe62de2839491110dcd072d363652b5062659d50d.png",
+        "https://static--1.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/64e68965474436b346fab56679f585b0c46c872295c0932c34bdec64215068af.png",
+        "https://static-55.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/d7178b8e3c83ede46168b3fdb02c358b5c895368ca9c3bb145bb3d7100722119.png",
+        "https://static-32.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/65f8d2e2601101b496aa5893085f5f5dd07199a7fad88a59542068fa24a3ecae.png"
+      ]
+    },
+    {
+      "slug": "walkway-fashion-tryon",
+      "category": "reference-edit",
+      "title": {
+        "en": "Walkway fashion try-on",
+        "zh": "走廊场景服装试穿",
+        "ja": "通路を歩くファッションの試着イメージ"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=A%20male%20model",
+      "outputs": [
+        "https://static-50.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/3e0519bb70f29b8f15672cfb50c8cc1c7c96d872515ecd51aaae0860ea1cb78a.png"
+      ],
+      "references": [
+        "https://static-36.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/9ce52ba5d34742795b39d964e149ee1c30397e1d4284a4626e0481731e92f175.png",
+        "https://static--85.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/108f98afa2383164399bcbec1645a89ed59c10cf26441190976ad6b838320585.png",
+        "https://static--84.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/77689668e8536c42a3349c1bdfe25c1888f85c03052276cd2d3621b3c4f8d7bd.png"
+      ]
+    },
+    {
+      "slug": "y2k-fashion-tryon",
+      "category": "reference-edit",
+      "title": {
+        "en": "Y2K outfit try-on",
+        "zh": "Y2K 服装试穿",
+        "ja": "Y2Kファッションの試着イメージ"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Y2K%20fashion%20street",
+      "outputs": [
+        "https://static-54.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/f70aedcc50cdc4f07d250f4891d38891086c6e2f50b9b62a3fe6a9b05d76394b.png"
+      ],
+      "references": [
+        "https://static-11.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/dcd69f8d1994eaead558d2f2297c3ab06c9846d50212571b42dbcda39195a332.png",
+        "https://static-38.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/9e62d206e15757a535277e967dc55b10f1c3d6114032c2d30eeaf6acfbaac197.png",
+        "https://static--99.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/fd9c90f78cb4cbdafc775b607d51fdea648a9c1d20901a3327af63210714ac7e.png",
+        "https://static-85.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/606d1e9092b32f7e60326023d20f265d7a2155edc061c4871cfd58e94a3d4ddf.png",
+        "https://static--26.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/0b910eeb4383a37599d1a879c003ee78b9287fba70997f7cf5d0fda2098ccef8.png",
+        "https://static-37.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/e4d662b08f843af4e9cb16f63ceb940c710c955b3e04429bc7a59259f9da47d6.png",
+        "https://static--19.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/192c1b1f67d2956155e4df57cd500ec0dda73df569257bbf9aac1bc3f6557b64.png",
+        "https://static--59.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/928c0b99039cdd47002920768083bf2439bc6f45d475c039b1b0355a8ef2028c.png",
+        "https://static--59.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/5fb29e2154c99e5c44410ebab1e636d29bae0e5f8b7f775bccd243351d01746e.png"
+      ]
+    },
+    {
+      "slug": "pot-product-long",
+      "category": "long-image",
+      "title": {
+        "en": "Ceramic pot ecommerce page",
+        "zh": "陶锅电商详情长图",
+        "ja": "陶器の鍋の商品詳細ロング画像"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Generate%20an%20English",
+      "outputs": [
+        "https://static-74.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/26aaeae5c73130e9aa9e19db3cf15551d51508cb562fa5b1f06ced0169a69903.png"
+      ],
+      "references": [
+        "https://static-0.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/cd97f5557698fac163fa14df66d096ad58a98c048eea9811e4afed2fcb629d1d.png"
+      ]
+    },
+    {
+      "slug": "ceramics-brand-long",
+      "category": "long-image",
+      "title": {
+        "en": "Ceramic brand website visual",
+        "zh": "陶瓷品牌网页长图",
+        "ja": "陶器ブランドのウェブサイト画像"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Create%20an%20English%2Dlanguage",
+      "outputs": [
+        "https://static--44.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/87f728b1eb6f0387aa4ec80e7859ef0f98f1e5f0b2ec57dee1c2f2ea85f6d4d8.png"
+      ],
+      "references": []
+    },
+    {
+      "slug": "xray-style-transfer",
+      "category": "reference-edit",
+      "title": {
+        "en": "X-ray visual style transfer",
+        "zh": "X 光视觉风格迁移",
+        "ja": "X線写真風へのスタイル変換"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Transform%20Image%202%20using",
+      "outputs": [
+        "https://static--21.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/10a7e3d92cc8f7fae8c01fc9266f6d2e6e87dbe9571e3144b34e5a24d5dabbe4.png"
+      ],
+      "references": [
+        "https://static--9.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/fe6b91a463dcfe4e85e45080672ea4c5a5f61e0712d62cbe1470d9b39c5f6e32.png",
+        "https://static-65.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/6f3996402e5a79b63194eb01c08cee8cf7f343149394dd7b6c8c39cb000ef6d9.png"
+      ]
+    },
+    {
+      "slug": "layout-style-transfer",
+      "category": "reference-edit",
+      "title": {
+        "en": "Text layout and style transfer",
+        "zh": "文字版式与风格迁移",
+        "ja": "文字組みとスタイルの変換"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Transform%20Image%202%20to",
+      "outputs": [
+        "https://static-50.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/8b5e9066a2ef5be24daf4b5be56f4cd1de44ee83248a7bcf6a8c0f7ca0510ea9.png"
+      ],
+      "references": [
+        "https://static-50.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/ee20de87f60493aea8234ab2d8c4e133c068f6f5d2f5023c08ff65ad627fe64a.png",
+        "https://static-31.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/4f2f4e55e1f8a999cb398b121fa38ff598a1840e380394609d8661aa8404629f.png"
+      ]
+    },
+    {
+      "slug": "style-recreation",
+      "category": "reference-edit",
+      "title": {
+        "en": "Reference style recreation",
+        "zh": "参考画风重建",
+        "ja": "参照画像を使った画風の再現"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Recreate%20Image%202",
+      "outputs": [
+        "https://static-6.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/c4a398fc76b35cfbc68f6d7359c421830bb183bb6074291a4a45908c2c35689a.png"
+      ],
+      "references": [
+        "https://static-62.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/fb0467e3abf3a360ef5b30d52dac493158d06851874dfcdd1a1dfe79e9c48c96.png",
+        "https://static-17.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/8ed9906b51e7eef4be84eb7d3f51667d85e15bf92a0dbc56685a8465ae3d0e64.png"
+      ]
+    },
+    {
+      "slug": "portrait-identity-transfer",
+      "category": "reference-edit",
+      "title": {
+        "en": "Identity-preserving portrait edit",
+        "zh": "保持人物身份的肖像编辑",
+        "ja": "人物の特徴を保ったポートレート編集"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Use%20the%20person%20in%20Image%202",
+      "outputs": [
+        "https://static-50.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/5e601f82e9b01271c16df27f7b59540fe05a3750394824465567dfa25cf6a53b.png"
+      ],
+      "references": [
+        "https://static--37.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/f73317b52c6ca38466c1fd7595026582c929ec756e96ca2675930873dba89045.png",
+        "https://static--21.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/009198cb89888bb38e4e2656864a657ba7dc7c4b0431f289d459f3f11a56b154.png"
+      ]
+    }
+  ],
+  "prompts": [
+    {
+      "slug": "copper-kettle-window",
+      "category": "photography",
+      "title": {
+        "en": "Copper kettle in winter light",
+        "zh": "冬日窗边的铜壶",
+        "ja": "冬の窓辺に置かれた銅やかん"
+      },
+      "itemType": "template",
+      "prompt": "Photograph a hand-hammered copper kettle on a deep slate windowsill on an overcast winter morning. The closed window shows a soft gray courtyard. Capture subtle oxidation around the lid and tiny dents where warm copper meets its duller patina. Place a folded cream tea towel low at right for scale. Use one soft side light, a normal-lens perspective and restrained contrast; preserve detail in the dark slate and keep the entire kettle sharp.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "after-rain-market",
+      "category": "photography",
+      "title": {
+        "en": "A flower market after rain",
+        "zh": "雨后的花市",
+        "ja": "雨上がりの花市場"
+      },
+      "itemType": "template",
+      "prompt": "Make an eye-level documentary photograph of two flower vendors folding a wet canvas awning at a corner stall just after rain. The nearest vendor looks down at a brass clip; the second holds the canvas from below. Show muted green stems, white bucket rims and broken reflections in the pavement. Frame hands and faces clearly with an unobstructed central gap and leave weathered signs unlettered in the background.",
+      "settings": {
+        "aspectRatio": "3:2",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "charcoal-running-shoe",
+      "category": "photography",
+      "title": {
+        "en": "Charcoal runner product photo",
+        "zh": "炭灰色跑鞋棚拍",
+        "ja": "チャコール色のランニングシューズ"
+      },
+      "itemType": "template",
+      "prompt": "Stage one charcoal fabric running shoe in three-quarter side view on gray rubber flooring. A hard narrow key light from high left should separate mesh, matte sole and the slightly glossy reinforcement at the heel. Keep the outsole contour and eyelets visible. Crop loosely, place the shoe just below center and leave the upper quarter empty for later copy. Make a clean product photograph with no visible branding.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "pottery-workshop-portrait",
+      "category": "photography",
+      "title": {
+        "en": "A potter at work",
+        "zh": "陶艺师工作肖像",
+        "ja": "作業中の陶芸家"
+      },
+      "itemType": "template",
+      "prompt": "Photograph an older potter at a wheel as both hands lift the wall of a wet clay bowl. Frame from waist to head, with the bowl and knuckles in focus and the far wall soft. A tall north-facing window lights the face and apron from the left. Keep the clay smears, fine skin detail and edge of the spinning wheel visible. Use a quiet blue-gray palette with a small warm bounce from a wooden shelf.",
+      "settings": {
+        "aspectRatio": "3:2",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "night-bus-stop",
+      "category": "photography",
+      "title": {
+        "en": "Last bus stop at dusk",
+        "zh": "暮色里的末班公交站",
+        "ja": "夕暮れの終バス停"
+      },
+      "itemType": "template",
+      "prompt": "Create a low-light street photograph of a lone commuter under a glass bus shelter after sunset. Include a cool street lamp at left and a warm bakery window reflected in the shelter glass at right. Separate the reflection from the real person so the viewer can read the layers. Show breath in the cold air and damp paving, with accurate perspective and no conspicuous neon color grading.",
+      "settings": {
+        "aspectRatio": "16:9",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "iced-tea-macro",
+      "category": "photography",
+      "title": {
+        "en": "Iced tea glass macro",
+        "zh": "冰茶玻璃杯微距",
+        "ja": "アイスティーグラスのマクロ写真"
+      },
+      "itemType": "template",
+      "prompt": "Create a macro product photograph of an unbranded clear tea glass, filled with pale amber iced tea and two large clear ice cubes. Backlight the liquid against frosted pale green glass. Render realistic thin condensation at the glass edge and one drop halfway down; the rim and ice must remain sharply defined. Place one narrow slice of lemon beside the glass and keep the background clean.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "quiet-trail-waterfall",
+      "category": "photography",
+      "title": {
+        "en": "Forest trail and waterfall",
+        "zh": "林间小路与瀑布",
+        "ja": "森の小道と滝"
+      },
+      "itemType": "template",
+      "prompt": "Photograph a small waterfall beyond a winding forest trail on a bright cloudy day. Place a mossy stone in the lower left as a near-scale cue and fit the watercourse through a clear opening between two trees. Use a photographic shutter treatment that keeps texture in flowing water, with wet bark, layered foliage and no surreal saturation. Keep open space above the falls to show the surrounding rock.",
+      "settings": {
+        "aspectRatio": "3:2",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "folded-denim-high-detail",
+      "category": "photography",
+      "title": {
+        "en": "Folded denim texture study",
+        "zh": "折叠牛仔布纹理特写",
+        "ja": "折りたたんだデニムの質感"
+      },
+      "itemType": "template",
+      "prompt": "Photograph a folded indigo denim jacket at a shallow angle on light warm-gray paper. Focus on the double topstitch, one oxidized unbranded metal button and a line of fine diagonal twill. Give the cloth enough light to separate individual fibers without making it look plastic. Preserve a clean middle tone and keep the foreground fold and stitch in the same focal plane.",
+      "settings": {
+        "aspectRatio": "3:2",
+        "resolution": "4K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "brass-lamp-living-room",
+      "category": "photography",
+      "title": {
+        "en": "Reading lamp interior photo",
+        "zh": "黄铜阅读灯室内照",
+        "ja": "真鍮の読書灯がある室内"
+      },
+      "itemType": "template",
+      "prompt": "Photograph a cylindrical brushed-brass reading lamp beside a low walnut bookcase and an off-white chair. Let afternoon sun draw a straight shadow on the wall while the lamp itself remains switched off. Show the lamp cord and natural falloff on the chair. Use a straight vertical camera and enough distance to avoid distorted furniture proportions. The brass should reflect the room softly.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "fig-dessert-overhead",
+      "category": "photography",
+      "title": {
+        "en": "Overhead fig tart styling",
+        "zh": "无花果塔俯拍",
+        "ja": "いちじくタルトの真上からの写真"
+      },
+      "itemType": "template",
+      "prompt": "Create a true overhead editorial photograph of a small fig tart on a white ceramic plate, one wedge removed to reveal a clean cross-section. Place a brushed stainless dessert fork at the lower right and three fig pieces near the upper left. Use window light from upper left, with distinct tart shell, cream and translucent fruit textures. Aim for a restrained composition for a recipe card.",
+      "settings": {
+        "aspectRatio": "1:1",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "weekend-print-fair",
+      "category": "typography",
+      "title": {
+        "en": "Weekend print fair poster",
+        "zh": "周末版画市集海报",
+        "ja": "週末版画市のポスター"
+      },
+      "itemType": "template",
+      "prompt": "Design a two-ink risograph poster with a pale cream ground, cobalt type and one rust-orange spot illustration of a roller. Typeset these exact lines in this order: “WEEKEND PRINT FAIR”, “Sat–Sun · 11–18”, “Paper Hall · South Courtyard”. Use one large sturdy headline and keep the schedule and address horizontal with generous letter spacing. Restrict extra marks to simple unlettered shapes.",
+      "settings": {
+        "aspectRatio": "3:4",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "tea-bar-menu-zh",
+      "category": "typography",
+      "title": {
+        "en": "Chinese tea bar menu",
+        "zh": "中文茶饮菜单",
+        "ja": "中国語のティーバーメニュー"
+      },
+      "itemType": "template",
+      "prompt": "设计一张留白充足的米白色桌面茶单，深墨绿字体，右下角画一个无字线描茶杯。顶端标题只能写「雨后茶室」。下方用两列对齐的四行正文，逐字写入「茉莉冷泡 28 元」「桂花乌龙 32 元」「白桃红茶 30 元」「陈皮普洱 34 元」。底部单独一行「每日 11:00–19:00」。文字横排，标价列右对齐，背景无纹理，不添加英文或其他正文。",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "small-museum-label",
+      "category": "typography",
+      "title": {
+        "en": "Museum label system",
+        "zh": "博物馆展签",
+        "ja": "美術館の展示キャプション"
+      },
+      "itemType": "template",
+      "prompt": "Create a photographic mockup of one readable warm-white exhibition label on a charcoal museum wall. Use a heading “Clay and Current”, then three exact lines: “Studio North”, “Glazed stoneware · 2026”, “On loan from the maker”. The left edge of each line aligns to the same grid. Make the sign nearly front-facing; a soft raking shadow may appear on the wall but never across the letters.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "japanese-bookshop-event",
+      "category": "typography",
+      "title": {
+        "en": "Japanese bookshop event placard",
+        "zh": "日文书店活动立牌",
+        "ja": "書店イベントの案内板"
+      },
+      "itemType": "template",
+      "prompt": "小さな書店の店頭に置く案内板を一枚デザインしてください。生成りの地に深い藍色で、上から「夜の読書会」「金曜日 19:30」「参加無料」の三行を正確に横書きする。題字と開催時刻の間に余白を取り、下端に開いた本の小さな線画を添える。飾り文字や英語のキャッチコピーを加えず、正面から読める紙のデザインにする。",
+      "settings": {
+        "aspectRatio": "3:4",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "bike-parking-map",
+      "category": "typography",
+      "title": {
+        "en": "Bike parking wayfinding card",
+        "zh": "自行车停车导视卡",
+        "ja": "駐輪場の案内カード"
+      },
+      "itemType": "template",
+      "prompt": "Design a minimal wayfinding board with a cream background, black type and a thin green route line. Set “BIKE PARKING” as the only headline. Label a simple map with exactly “North Gate”, “Repair Stand” and “Racks A–C”. Draw the route left to right with two clean corners; use a green circle at its endpoint. Maintain enough separation that none of the three map labels overlaps a line.",
+      "settings": {
+        "aspectRatio": "4:3",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "sparkling-water-label",
+      "category": "typography",
+      "title": {
+        "en": "Sparkling water can label",
+        "zh": "气泡水罐身标签",
+        "ja": "炭酸水の缶ラベル"
+      },
+      "itemType": "template",
+      "prompt": "Create a straight-on product mockup of a sea-green can against a pale blue background. On the front, arrange three legible lines: “LOW TIDE”, “LIME + SEA SALT”, “330 mL”. Set an oversized brand name with steady baseline, a small uppercase flavor line and the volume near the lower rim. Curve the print gently with the cylindrical surface, avoiding any repeated or invented copy.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "fermentation-infographic",
+      "category": "typography",
+      "title": {
+        "en": "Fermentation process infographic",
+        "zh": "发酵流程信息图",
+        "ja": "発酵工程のインフォグラフィック"
+      },
+      "itemType": "template",
+      "prompt": "Lay out a clean, illustrated kitchen process poster with the exact title “A SOURDOUGH DAY”. Show four numbered panels in reading order with only these labels: “01 Feed”, “02 Mix”, “03 Fold”, “04 Bake”. Draw a jar, bowl, folded dough and oven in the corresponding panels. Use warm ochre and charcoal ink, clean white gutters and a common icon scale. Keep all characters visible at thumbnail size.",
+      "settings": {
+        "aspectRatio": "3:4",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "exhibition-tickets-zh",
+      "category": "typography",
+      "title": {
+        "en": "Chinese exhibition ticket",
+        "zh": "中文展览门票",
+        "ja": "中国語の展覧会チケット"
+      },
+      "itemType": "template",
+      "prompt": "为虚构展览做一张横版纸质门票，压在暗灰展台上。左侧用清晰粗体排「潮汐档案」，下方两行「11 月 28 日」和「南岸展厅」；右侧票根用竖直虚线分隔，清楚印「入场票」。使用深蓝与银灰两色，文字保持高对比，每段之间留足空白，不添加条码、英文或其他文字。",
+      "settings": {
+        "aspectRatio": "3:2",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "short-film-title-card",
+      "category": "typography",
+      "title": {
+        "en": "Short film title card",
+        "zh": "短片片头字卡",
+        "ja": "短編映画のタイトルカード"
+      },
+      "itemType": "template",
+      "prompt": "Design one widescreen title card for an imaginary short film. Set the exact title “THE LAST FERRY” in ivory block serif letters, with “A film by Rowan Vale” below in smaller type. Use a dark foggy harbor with a single amber light at the lower right. Preserve a clear silhouette of the ferry and enough dark empty space behind the words so the text remains completely readable.",
+      "settings": {
+        "aspectRatio": "16:9",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "studio-class-schedule",
+      "category": "typography",
+      "title": {
+        "en": "Ceramics studio class schedule",
+        "zh": "陶艺教室课程表",
+        "ja": "陶芸教室の時間割"
+      },
+      "itemType": "template",
+      "prompt": "Create a graphite-and-cream sign for a ceramics studio with a three-row grid. Heading: “STUDIO CLASSES”. Column headings: “DAY” and “SESSION”. Populate the rows exactly, Monday — Wheel, Wednesday — Glaze, Saturday — Handbuild. Keep horizontal text, even line height, and a quiet clay illustration in its own footer block. Align day and session columns without shortening the words.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "perfumery-campaign-set",
+      "category": "image-set",
+      "title": {
+        "en": "Bergamot perfume campaign",
+        "zh": "佛手柑香水广告组图",
+        "ja": "ベルガモット香水の広告シリーズ"
+      },
+      "itemType": "template",
+      "prompt": "Create three coordinated campaign images for the same unlettered rectangular perfume bottle with an amber liquid, a frosted cap and a small diagonal glass bevel. Image 1: hero on a pale stone block beside one bergamot. Image 2: cap and glass macro with glancing sunlight. Image 3: horizontal-seeming composition inside the vertical frame, with the bottle at right and a folded tissue at left. Lock bottle geometry, honey-colored liquid, warm daylight and cream-to-olive palette across the set.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K",
+        "images": 3
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "folding-bicycle-catalog",
+      "category": "image-set",
+      "title": {
+        "en": "Folding bicycle catalog set",
+        "zh": "折叠自行车产品组图",
+        "ja": "折りたたみ自転車のカタログシリーズ"
+      },
+      "itemType": "template",
+      "prompt": "Make a coherent three-image catalog for one unbranded cobalt folding bicycle with a single top tube, tan handlebar grips and small black wheels. Image 1 has the full unfolded bicycle in side view on warm gray. Image 2 shows the same bicycle folded at three quarters with wheels nested visually. Image 3 is a macro of the hinge and grip material. Keep the paint, frame shape, tire type and lighting consistent.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K",
+        "images": 3
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "ceramic-tableware-series",
+      "category": "image-set",
+      "title": {
+        "en": "Glazed tableware collection",
+        "zh": "釉面餐具系列图",
+        "ja": "釉薬をかけた食器のシリーズ"
+      },
+      "itemType": "template",
+      "prompt": "Generate an ordered set of three studio images for one small tableware range. Use the same off-white speckled clay and irregular cobalt half-dip glaze in every picture. Start with a plate, cup and bowl arranged on a linen-covered table. In the next image show a single bowl profile exposing the clay foot. Finish with a cup rim macro highlighting the glaze transition. Maintain natural scale and shadows across all three.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K",
+        "images": 3
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "paper-robot-character-views",
+      "category": "image-set",
+      "title": {
+        "en": "Paper robot character views",
+        "zh": "纸质机器人多视角设定",
+        "ja": "紙製ロボットの多視点デザイン"
+      },
+      "itemType": "template",
+      "prompt": "Create a three-image character turnaround of an original small paper robot. It has a cream rectangular torso, circular orange head with two square apertures and folding charcoal elbows. Show clean front, right profile and back views on three separate near-white square images. Keep the feet on the same baseline and preserve exact size, proportions, material and construction details. Use soft neutral lighting and no labels.",
+      "settings": {
+        "aspectRatio": "1:1",
+        "resolution": "2K",
+        "images": 3
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "meteor-station-storyboard",
+      "category": "image-set",
+      "title": {
+        "en": "Mountain weather station storyboard",
+        "zh": "山顶气象站分镜组图",
+        "ja": "山頂観測所の絵コンテ"
+      },
+      "itemType": "template",
+      "prompt": "Generate three connected film stills about a technician climbing to a remote weather station. Frame 1 is a wide view of a small corrugated observatory and a red parka below it on a ridge. Frame 2 shows the same person opening a steel door. Frame 3 shows a gloved hand adjusting a metal dial by a window with the ridge visible. Keep the parka, time of day, station exterior and cold muted grading consistent.",
+      "settings": {
+        "aspectRatio": "16:9",
+        "resolution": "2K",
+        "images": 3
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "modular-desk-accessories",
+      "category": "image-set",
+      "title": {
+        "en": "Modular desk accessories series",
+        "zh": "桌面配件系列图",
+        "ja": "モジュール式デスク用品のシリーズ"
+      },
+      "itemType": "template",
+      "prompt": "Make a three-image square launch set for solid walnut desk accessories with identical chamfers and a matte oil finish. Show a pen tray and cable box together in the first image, the cable passage close-up in the second, and the tray in a sparse working desk scene in the third. Keep the wood grain direction and edge profile credible, using even soft left light and a pale warm-gray ground.",
+      "settings": {
+        "aspectRatio": "1:1",
+        "resolution": "2K",
+        "images": 3
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "community-cafe-campaign",
+      "category": "image-set",
+      "title": {
+        "en": "Café breakfast campaign",
+        "zh": "咖啡店早餐系列广告",
+        "ja": "カフェの朝食キャンペーン"
+      },
+      "itemType": "template",
+      "prompt": "Make three coordinated photographs for a neighborhood café breakfast. Image 1 shows a compact set of toast, soft egg and ceramic cup. Image 2 is a close side view of jam spreading thinly over an identical slice. Image 3 shows a hand lifting the same white cup beside the plate. Keep one blue stripe on the cup, a single oak table, early window light and realistic portions throughout.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K",
+        "images": 3
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "paper-city-landmarks",
+      "category": "image-set",
+      "title": {
+        "en": "Paper city landmark set",
+        "zh": "纸雕城市地标组图",
+        "ja": "紙で作った街のランドマーク集"
+      },
+      "itemType": "template",
+      "prompt": "Build three views from one fictional city made entirely of cut paper. Frame one features a pale jade clock tower, frame two a narrow rust-colored bridge and frame three a blue-roofed market with cream stalls. Retain the same quiet four-color paper palette, layered construction, 35-degree viewing angle, underlying cream baseboard and direction of cast shadows. Each landmark should be distinct and geographically plausible.",
+      "settings": {
+        "aspectRatio": "1:1",
+        "resolution": "2K",
+        "images": 3
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "trail-jacket-campaign",
+      "category": "image-set",
+      "title": {
+        "en": "Outdoor jacket campaign set",
+        "zh": "户外夹克广告组图",
+        "ja": "アウトドアジャケットの広告シリーズ"
+      },
+      "itemType": "template",
+      "prompt": "Generate three campaign frames for exactly one pine-green waterproof shell with an orange center zipper and black cuffs. First show a hanging jacket front with a visible hood. Then show the same shell worn while a hiker leans above a river crossing. Finish on one cuff and seam with fine rain beads. Preserve the zipper, woven fabric, green hue and black cuffs across the set; exclude visible logos.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K",
+        "images": 3
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "bookshop-opening-story",
+      "category": "image-set",
+      "title": {
+        "en": "Bookshop opening sequence",
+        "zh": "书店开门分镜组图",
+        "ja": "書店の開店シークエンス"
+      },
+      "itemType": "template",
+      "prompt": "Compose three widescreen frames from the same dawn at a small bookshop. Begin outside with a dark green front and a single unlettered window. Next frame a hand turning the shop key from the inside. Finish with the same owner setting three books on a sunlit wooden display. Repeat the green paint and brass hardware, preserve the window geometry, and let the sunlight become gradually warmer.",
+      "settings": {
+        "aspectRatio": "16:9",
+        "resolution": "2K",
+        "images": 3
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "perfume-story-page",
+      "category": "long-image",
+      "title": {
+        "en": "Perfume product detail page",
+        "zh": "香水电商详情长图",
+        "ja": "香水の商品詳細ロング画像"
+      },
+      "itemType": "template",
+      "prompt": "Use @image_1 as the source for the bottle silhouette, cap and liquid color. Create one continuous vertical product detail image for the fictional scent “BERGAMOT / 07”. Order the page as bottle hero, a Bergamot · Cedar · Vetiver notes panel, one glass detail close-up, a quiet daylight still life, and a closing card with “50 mL”. Use a cream and olive grid with readable text, sufficient section spacing and a continuous editorial rhythm.",
+      "settings": {
+        "mode": "ecommerce",
+        "resolution": "1K",
+        "length": "short"
+      },
+      "referenceIds": [
+        "bergamot-bottle"
+      ]
+    },
+    {
+      "slug": "desk-lamp-spec-page",
+      "category": "long-image",
+      "title": {
+        "en": "Desk lamp product detail page",
+        "zh": "台灯电商详情长图",
+        "ja": "デスクランプの商品詳細ロング画像"
+      },
+      "itemType": "template",
+      "prompt": "Use @image_1 to keep the shade, pedestal and brushed brass finish consistent. Design a tall product page with a large hero headed “LATE LIGHT”, then a detail view of the joint, a dim nighttime reading scene, and a section headed “MEASURE YOUR SPACE” with a simple line drawing. Use no invented numerical specs. Alternate airy cream and dark brown bands without gaps or extra browser chrome.",
+      "settings": {
+        "mode": "ecommerce",
+        "resolution": "1K",
+        "length": "short"
+      },
+      "referenceIds": [
+        "brass-desk-lamp"
+      ]
+    },
+    {
+      "slug": "trail-bottle-shop-page",
+      "category": "long-image",
+      "title": {
+        "en": "Trail bottle product detail page",
+        "zh": "户外水壶电商详情长图",
+        "ja": "アウトドアボトルの商品詳細ロング画像"
+      },
+      "itemType": "template",
+      "prompt": "Create one vertical merchandising image for the trail bottle in @image_1. Keep the forest-green body, black cap and loop proportions. Arrange five sections: “RIDGE BOTTLE”, pack-pocket lifestyle photo, close-up of the cap loop, water-droplet finish detail, and a simple “CARE” section reading “Hand wash · Air dry”. Use stone-gray bands, black text and a muted sage accent. Preserve the same bottle in all appearances.",
+      "settings": {
+        "mode": "ecommerce",
+        "resolution": "1K",
+        "length": "short"
+      },
+      "referenceIds": [
+        "green-trail-bottle"
+      ]
+    },
+    {
+      "slug": "running-shoe-detail-page",
+      "category": "long-image",
+      "title": {
+        "en": "Running shoe product detail page",
+        "zh": "跑鞋电商详情长图",
+        "ja": "ランニングシューズの商品詳細ロング画像"
+      },
+      "itemType": "template",
+      "prompt": "Using @image_1 as the identity reference, generate one continuous product feature page for an unbranded charcoal running shoe. Place a dramatic hero labeled “AFTER MILES”, then show outsole close-up, mesh close-up and a footpath lifestyle frame in three orderly sections. Finish with “Find your stride”. Keep the same eyelet count and outsole profile, and use clear type against simple white and graphite panels.",
+      "settings": {
+        "mode": "ecommerce",
+        "resolution": "1K",
+        "length": "short"
+      },
+      "referenceIds": [
+        "charcoal-shoe"
+      ]
+    },
+    {
+      "slug": "tableware-detail-page",
+      "category": "long-image",
+      "title": {
+        "en": "Tableware product detail page",
+        "zh": "陶瓷餐具电商详情长图",
+        "ja": "陶器の商品詳細ロング画像"
+      },
+      "itemType": "template",
+      "prompt": "Create a single long product page based on the glazed cup in @image_1. Keep the cobalt glaze break, handle opening and unglazed foot intact. Build a hero with “HALF DIP CUP”, followed by one close glaze detail, one overhead table setting, a care panel headed “CARE”, and a closing centered vignette. Use cream paper, subtle cobalt rules and spacious black type; omit invented measurements or prices.",
+      "settings": {
+        "mode": "ecommerce",
+        "resolution": "1K",
+        "length": "short"
+      },
+      "referenceIds": [
+        "blue-cup"
+      ]
+    },
+    {
+      "slug": "ceramics-website-long",
+      "category": "long-image",
+      "title": {
+        "en": "Ceramics studio landing page visual",
+        "zh": "陶艺工作室网页长图",
+        "ja": "陶芸工房のランディングページ画像"
+      },
+      "itemType": "template",
+      "prompt": "Generate one tall front-facing web-design image for a fictional ceramics studio called “Kiln Lane”. Begin with a simple wordmark and hero featuring two ceramic bowls. Continue with “The Studio” showing the wheel, “Small Editions” with three spaced product images, “Open Workshop” with one photo, and a compact footer labeled “Visit”. Keep headings legible, use a warm creamy background and maintain the same column grid from top to bottom.",
+      "settings": {
+        "mode": "webpage",
+        "resolution": "1K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "field-notes-website",
+      "category": "long-image",
+      "title": {
+        "en": "Field journal website visual",
+        "zh": "自然观察刊物网页长图",
+        "ja": "自然観察誌のウェブサイト画像"
+      },
+      "itemType": "template",
+      "prompt": "Design a single tall website visual for a seasonal nature publication called “FIELD NOTES”. Set a full-width woodland hero, a featured article headed “Moss After Rain”, a three-card grid called “From the Trail”, a dark green signup band headed “Get the next issue”, and a restrained footer. Use a white serif editorial system, moss accents, clearly defined section boundaries and ample whitespace. Present the design straight on without a device frame.",
+      "settings": {
+        "mode": "webpage",
+        "resolution": "1K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "coffee-roaster-website",
+      "category": "long-image",
+      "title": {
+        "en": "Coffee roaster landing page visual",
+        "zh": "咖啡烘焙品牌网页长图",
+        "ja": "コーヒーロースターのランディングページ画像"
+      },
+      "itemType": "template",
+      "prompt": "Create one continuous long web page mockup for “SLOW ORBIT COFFEE”. Use a front-facing bag of coffee and a warm brown cafe table in the hero, two equal product cards, a short visual story titled “Roasted in small batches”, and a navy footer. Use cream type panels, copper accents and strong vertical alignment. Keep headline and navigation text legible and separate from decorative graphics.",
+      "settings": {
+        "mode": "webpage",
+        "resolution": "1K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "trail-map-studio-website",
+      "category": "long-image",
+      "title": {
+        "en": "Trail map studio portfolio visual",
+        "zh": "步道地图设计工作室网页长图",
+        "ja": "トレイルマップ制作スタジオのサイト画像"
+      },
+      "itemType": "template",
+      "prompt": "Generate one tall portfolio site visual titled “PATH & PAPER”. Include a hero pairing a large hand-drawn ridge map with the headline, a section titled “Selected Maps” with three card thumbnails, one wide crop of contour lines, and a simple “Contact” footer. Use a cream and navy palette, subtle moss accents and a stable grid. Render a flat page image without outer perspective or browser elements.",
+      "settings": {
+        "mode": "webpage",
+        "resolution": "1K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "quiet-listening-website",
+      "category": "long-image",
+      "title": {
+        "en": "Listening room website visual",
+        "zh": "音乐试听室网页长图",
+        "ja": "リスニングルームのサイト画像"
+      },
+      "itemType": "template",
+      "prompt": "Create an uninterrupted tall website layout for a fictional vinyl listening room called “SIDE B”. Use a warm dark hero showing a record and a single desk lamp, an ivory “Listening Sessions” panel with three column blocks, a full-width image of shelves, and a near-black footer reading “Reservations”. Maintain readable high-contrast type and consistent margins. Make all design elements fit within one front-facing vertical image.",
+      "settings": {
+        "mode": "webpage",
+        "resolution": "1K"
+      },
+      "referenceIds": []
+    },
+    {
+      "slug": "perfume-marble-edit",
+      "category": "reference-edit",
+      "title": {
+        "en": "Move perfume onto white marble",
+        "zh": "香水换白色大理石背景",
+        "ja": "香水の背景を白い大理石に変更"
+      },
+      "itemType": "template",
+      "prompt": "Use @image_1 as the sole reference for the unlettered perfume bottle. Replace the existing background with white marble and a slim window reflection from camera left. Retain bottle proportions, cap shape, bevel, level and color of liquid, and camera angle. Replace contact shadow and reflections to suit the new surface, keeping the original silhouette clean.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": [
+        "bergamot-bottle"
+      ]
+    },
+    {
+      "slug": "shoe-colorway-edit",
+      "category": "reference-edit",
+      "title": {
+        "en": "Change a runner to forest green",
+        "zh": "将跑鞋换成松林绿配色",
+        "ja": "ランニングシューズを深緑に変更"
+      },
+      "itemType": "template",
+      "prompt": "Edit @image_1 so that only the fabric upper becomes deep pine green and the laces become off-white. Keep the outsole color, tread outline, lace count, camera angle and original studio background. Show the visible mesh and stitched borders through the new colors, and preserve contact shadow direction.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": [
+        "charcoal-shoe"
+      ]
+    },
+    {
+      "slug": "lamp-evening-edit",
+      "category": "reference-edit",
+      "title": {
+        "en": "Relight a lamp for evening",
+        "zh": "台灯场景改成夜间暖光",
+        "ja": "デスクランプの場面を夜の照明に変更"
+      },
+      "itemType": "template",
+      "prompt": "Turn @image_1 into an evening product scene in the same camera position. Let the same lamp cast a small warm cone onto the table, with the room fading into desaturated navy behind it. Preserve the lamp's upright stem, pedestal, shade proportions and original material. Add believable brass highlights and keep the base clearly readable.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": [
+        "brass-desk-lamp"
+      ]
+    },
+    {
+      "slug": "cup-and-linen-edit",
+      "category": "reference-edit",
+      "title": {
+        "en": "Combine a ceramic cup and a linen reference",
+        "zh": "合并陶瓷杯与亚麻布参考",
+        "ja": "陶器のカップとリネン参照を組み合わせる"
+      },
+      "itemType": "template",
+      "prompt": "Take only the cup identity from @image_1 and use @image_2 for the weave, drape and color of a new linen backdrop. Place the cup on a horizontal fold, with one loose fold climbing the back of the set. Preserve the cobalt glaze and the handle's open loop. Use soft daylight and avoid linen texture on the cup itself.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": [
+        "blue-cup",
+        "linen-swatch"
+      ]
+    },
+    {
+      "slug": "bottle-shade-edit",
+      "category": "reference-edit",
+      "title": {
+        "en": "Move a trail bottle into cool forest shade",
+        "zh": "把水壶放入森林阴影",
+        "ja": "ボトルを涼しい森の日陰に移す"
+      },
+      "itemType": "template",
+      "prompt": "Move the exact bottle from @image_1 onto a slightly damp rock at the edge of a spruce forest. Preserve the green body, angled carry loop, black cap and unbranded surface. Use diffuse cool light and a soft gray rock reflection, with a little blur in the background but a sharp bottle perimeter. Do not add watermarks or type.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": [
+        "green-trail-bottle"
+      ]
+    },
+    {
+      "slug": "poster-layout-edit",
+      "category": "reference-edit",
+      "title": {
+        "en": "Replace the copy in a poster layout",
+        "zh": "在同版式内替换海报文字",
+        "ja": "ポスターのレイアウトを保って文字を差し替える"
+      },
+      "itemType": "template",
+      "prompt": "Use @image_1 for its margin widths, two-color palette and text block positions. Replace the large title with “MIDNIGHT PRINTS”, the date with “FRI · 20:00”, and the footer line with “PAPER ROOM”. Keep the small illustration at its original scale. Ensure clean letter spacing, with no ghosting of the old text.",
+      "settings": {
+        "aspectRatio": "3:4",
+        "resolution": "2K"
+      },
+      "referenceIds": [
+        "poster-layout"
+      ]
+    },
+    {
+      "slug": "cup-angle-edit",
+      "category": "reference-edit",
+      "title": {
+        "en": "Translate a cup photo to overhead view",
+        "zh": "从斜视图推演陶瓷杯俯拍",
+        "ja": "カップの写真を真上の構図に変更"
+      },
+      "itemType": "template",
+      "prompt": "Transform @image_1 into a top-down product photo of the same cup sitting empty on warm gray paper, with the handle pointing lower right. Reconstruct its circular lip and preserve the glazed inner color, speckled clay, and handle thickness. Use a short shadow to retain depth, with no second cup or saucer.",
+      "settings": {
+        "aspectRatio": "1:1",
+        "resolution": "2K"
+      },
+      "referenceIds": [
+        "blue-cup"
+      ]
+    },
+    {
+      "slug": "perfume-color-style-edit",
+      "category": "reference-edit",
+      "title": {
+        "en": "Give perfume a blue editorial color grade",
+        "zh": "给香水场景换蓝色编辑调色",
+        "ja": "香水の写真に青系の色調を反映"
+      },
+      "itemType": "template",
+      "prompt": "Keep the product, crop and perspective from @image_1. Borrow only the cool cyan shadows, pale highlights and crisp specular contrast from @image_2. Preserve the cap, amber liquid and bottle edge so the product still reads. Do not import any shapes from the style image. Use a quiet neutral background and a clean pale-cyan cast shadow.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": [
+        "bergamot-bottle",
+        "blue-glass-style"
+      ]
+    },
+    {
+      "slug": "shoe-remove-props",
+      "category": "reference-edit",
+      "title": {
+        "en": "Remove styling props around a running shoe",
+        "zh": "移除跑鞋周围道具",
+        "ja": "ランニングシューズの周囲の小物を除去"
+      },
+      "itemType": "template",
+      "prompt": "Show the shoe from @image_1 at precisely the same angle and scale as a clean e-commerce cutout. Use @image_2 only to set a neutral warm-white background color. Omit all unrelated materials and give the shoe an understated contact shadow. Keep the tongue, laces, heel and entire outsole in frame, with no additions to the design.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": [
+        "charcoal-shoe",
+        "linen-swatch"
+      ]
+    },
+    {
+      "slug": "product-pair-edit",
+      "category": "reference-edit",
+      "title": {
+        "en": "Combine lamp and ceramic cup in one scene",
+        "zh": "合成台灯和陶瓷杯场景",
+        "ja": "ランプと陶器のカップを一枚に合成"
+      },
+      "itemType": "template",
+      "prompt": "Create a coherent interior photo with the exact lamp from @image_1 on the left and the exact cup from @image_2 on the right. Use plausible relative scale: a small cup at the foot of a desk lamp. Match a single soft window light from the left and show both objects' contact shadows on a walnut desk. Preserve the cup glaze and the lamp geometry, with a plain warm-gray wall behind them.",
+      "settings": {
+        "aspectRatio": "4:5",
+        "resolution": "2K"
+      },
+      "referenceIds": [
+        "brass-desk-lamp",
+        "blue-cup"
+      ]
+    }
+  ]
+}

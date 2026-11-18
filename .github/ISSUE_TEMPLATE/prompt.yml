@@ -1,0 +1,33 @@
+name: Submit a Kling Image 4.0 case
+description: Share a prompt with its matching outputs and references.
+title: "[Case] "
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Public source link
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Generation mode
+      options:
+        - Single image
+        - Image set
+        - Long image
+        - Reference-guided edit
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Original prompt and settings
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: Output links, reference links in input order, and permissions
+    validations:
+      required: true
