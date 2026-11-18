@@ -224,7 +224,7 @@
         "ja": "同じ画風のキャラクター四分割"
       },
       "itemType": "example",
-      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Using%20the%20visual%20art%20style%20of%20the%20reference%20image%2C%20generate%20a%202%C3%972",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=visual%20art%20style%20of%20the%20reference%20image%2C%20generate%20a%202%C3%972",
       "outputs": [
         "https://static-40.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/0424dcb5048366944034eaa5cd873c54b314b63a98bd056037e54b952f83cad9.png"
       ],
@@ -258,7 +258,7 @@
         "ja": "同じ形式のキャラクター三面図・第1組"
       },
       "itemType": "example",
-      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Using%20the%20close%2Dup%20and%20three%2Dview%20layout%20of%20the%20reference%20character%2C%20generate%20a",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=character%2C%20generate%20a%20matching%20set%20of%20three%20additional%20characters.%20Character",
       "outputs": [
         "https://static-29.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/9051687a4f98fc00eda993363b2e0115ce3b4a71a23048bd695605649473d971.png",
         "https://static-80.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/e469c610864c6c143a091fff34bc240c57fc47d3d67d0ce98ff688ad3497ab99.png",
@@ -277,7 +277,7 @@
         "ja": "同じ形式のキャラクター三面図・第2組"
       },
       "itemType": "example",
-      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Using%20the%20close%2Dup%20and%20three%2Dview%20layout%20of%20the%20reference%20character%2C%20generate%20a",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=character%2C%20generate%20a%20matching%20set%20of%20three%20additional%20characters.%20Arina%3A",
       "outputs": [
         "https://static-46.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/3e56259b9ed604b93715ae1407799b9f847275d85816f7579a7ae194ccef4ec0.png",
         "https://static-48.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/0cba50655315161a84c462419a133b53399d0bece81e5a5f2686a64ec40bdcc0.png",
@@ -299,21 +299,6 @@
       "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Five%20young%20East",
       "outputs": [
         "https://static--53.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/356c928cd4ee77f0aadf87daa1b82b2f2df8d04c9cb4acc112e002a7c27b6b85.png"
-      ],
-      "references": []
-    },
-    {
-      "slug": "eight-friends-portrait",
-      "category": "photography",
-      "title": {
-        "en": "Eight friends in a group portrait",
-        "zh": "八人合影",
-        "ja": "8人の友人の集合写真"
-      },
-      "itemType": "example",
-      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Eight%20young%20men%20and%20women%20gather%20in%20a%20photography%20studio%2C%20seated%20in",
-      "outputs": [
-        "https://static--41.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/d47e661f2a339756259b9153e8f71b0f2c88f154ca3b3df652ba4a67c1c2f54b.png"
       ],
       "references": []
     },
@@ -464,7 +449,7 @@
         "ja": "自然風景のシリーズ"
       },
       "itemType": "example",
-      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Using%20the%20visual%20art%20style%20of%20the%20reference%20image%2C%20generate%20a%20set",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=of%20the%20reference%20image%2C%20generate%20a%20set%20of%20different%20scene",
       "outputs": [
         "https://static--37.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/560e6f38a7a28877940aa8ed1cc5b3714316a519afb90356d66754a74da1823e.png",
         "https://static-51.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/79d540305026b6530239d7d2f67b8094b19d2621f39300bdbda709d6355fa01e.png",
@@ -486,7 +471,7 @@
         "ja": "校内外の風景シリーズ"
       },
       "itemType": "example",
-      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Using%20the%20visual%20art%20style%20of%20the%20reference%20image%2C%20generate%20a%20set",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=of%20the%20reference%20image%2C%20generate%20a%20set%20of%20different%20school",
       "outputs": [
         "https://static--88.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/1af6eba676bbabbdab084377833932d95d64a14075663505845311838a83ef69.png",
         "https://static-56.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/3c9920b252685361fc3deeb051949c4a3826a0be49e55572045facaac768c39e.png",
@@ -879,6 +864,21 @@
         "https://static--37.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/f73317b52c6ca38466c1fd7595026582c929ec756e96ca2675930873dba89045.png",
         "https://static--21.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/009198cb89888bb38e4e2656864a657ba7dc7c4b0431f289d459f3f11a56b154.png"
       ]
+    },
+    {
+      "slug": "surreal-fashion-poster",
+      "category": "typography",
+      "title": {
+        "en": "Surreal fashion campaign poster",
+        "zh": "超现实时尚广告海报",
+        "ja": "シュルレアリスム風のファッション広告"
+      },
+      "itemType": "example",
+      "source": "https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Create%20a%20surreal",
+      "outputs": [
+        "https://static-23.klingai-cdn-aws.com/kling-blog/content/doc-import/239774686675201/images/1b067fadfd09c47b528ea6fb0dc91cb5ea31966d6c2bd866cd96c8a03b11ba94.png"
+      ],
+      "references": []
     }
   ],
   "prompts": [

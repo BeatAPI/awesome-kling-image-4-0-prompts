@@ -6,7 +6,7 @@
 
 Kling Image 4.0 · Official example published by Kling AI
 
-[Read the original prompt in the Kling AI guide](https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Using%20the%20close%2Dup%20and%20three%2Dview%20layout%20of%20the%20reference%20character%2C%20generate%20a)
+[Read the original prompt in the Kling AI guide](https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=character%2C%20generate%20a%20matching%20set%20of%20three%20additional%20characters.%20Arina%3A)
 
 ## Published outputs
 

@@ -61,6 +61,7 @@ Browse 50 source-linked Kling AI examples and 50 original copyable prompts by ta
 - [Illustrated character poster](cases/illustrated-character-poster.md)
 - [Minimal collage brand design](cases/collage-brand-design.md)
 - [Japanese-inspired graphic poster](cases/japanese-graphic-poster.md)
+- [Surreal fashion campaign poster](cases/surreal-fashion-poster.md)
 
 ### Original prompts
 
@@ -126,7 +127,6 @@ Browse 50 source-linked Kling AI examples and 50 original copyable prompts by ta
 - [Fantasy creature design](cases/fantasy-creature.md)
 - [Archer character design](cases/character-archer.md)
 - [School uniform group portrait](cases/school-group.md)
-- [Eight friends in a group portrait](cases/eight-friends-portrait.md)
 - [Retro fashion magazine group cover](cases/retro-fashion-cover.md)
 - [Documentary street portrait](cases/documentary-street-portrait.md)
 - [Front-facing documentary portrait](cases/front-facing-documentary.md)

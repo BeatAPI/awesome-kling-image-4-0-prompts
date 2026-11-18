@@ -6,7 +6,7 @@
 
 Kling Image 4.0 · Official example published by Kling AI
 
-[Read the original prompt in the Kling AI guide](https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=Using%20the%20visual%20art%20style%20of%20the%20reference%20image%2C%20generate%20a%20set)
+[Read the original prompt in the Kling AI guide](https://kling.ai/quickstart/kling-image-4-user-guide#:~:text=of%20the%20reference%20image%2C%20generate%20a%20set%20of%20different%20school)
 
 ## Published outputs
 

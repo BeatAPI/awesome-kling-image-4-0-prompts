@@ -61,6 +61,7 @@
 - [卡通角色海报](cases/illustrated-character-poster.md)
 - [极简拼贴品牌图](cases/collage-brand-design.md)
 - [日式平面海报](cases/japanese-graphic-poster.md)
+- [超现实时尚广告海报](cases/surreal-fashion-poster.md)
 
 ### 原创提示词
 
@@ -126,7 +127,6 @@
 - [奇幻生物设定](cases/fantasy-creature.md)
 - [弓手角色设定](cases/character-archer.md)
 - [校服学生合照](cases/school-group.md)
-- [八人合影](cases/eight-friends-portrait.md)
 - [复古时装杂志合照](cases/retro-fashion-cover.md)
 - [纪实街头肖像](cases/documentary-street-portrait.md)
 - [正面纪实肖像](cases/front-facing-documentary.md)
