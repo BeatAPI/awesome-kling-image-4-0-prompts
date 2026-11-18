@@ -2,7 +2,7 @@
 
 参考画风重建 · 参照画像を使った画風の再現
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/style-recreation) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

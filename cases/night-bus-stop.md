@@ -2,7 +2,7 @@
 
 暮色里的末班公交站 · 夕暮れの終バス停
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/night-bus-stop) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

@@ -2,7 +2,7 @@
 
 书店开门分镜组图 · 書店の開店シークエンス
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/bookshop-opening-story) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

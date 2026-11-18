@@ -2,7 +2,7 @@
 
 林间小路与瀑布 · 森の小道と滝
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/quiet-trail-waterfall) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

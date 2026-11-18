@@ -2,7 +2,7 @@
 
 日式平面海报 · 日本風のグラフィックポスター
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/japanese-graphic-poster) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

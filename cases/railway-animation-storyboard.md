@@ -2,7 +2,7 @@
 
 火车站动画分镜 · 駅を舞台にしたアニメーション絵コンテ
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/railway-animation-storyboard) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

@@ -1,14 +1,72 @@
+<p align="center"><a href="https://beatapi.io"><img src="./assets/readme-hero.png" alt="Kling Image 4.0 Prompt Gallery cover illustration" width="100%" /></a></p>
+
 # Awesome Kling Image 4.0 Prompts
 
-![BeatAPI gallery cover illustration](assets/gallery-cover.webp)
+31 community examples, including 15 with creator-published prompts. Browse 50 additional official Kling AI references.
 
-Browse 50 source-linked Kling AI examples and 50 original copyable prompts by task. Each official example links to its prompt and matching images. The original prompts include suggested settings and reference requirements and are awaiting generation tests.
+**[BeatAPI home](https://beatapi.io)** · **[Browse the gallery](https://beatapi.io/kling-image-4-0-prompts)** · **[Model preview](https://beatapi.io/kling-4-0-image-api)** · **[中文](README.zh-CN.md)** · **[Contribute a case](https://github.com/BeatAPI/awesome-kling-image-4-0-prompts/issues/new?template=prompt.yml)**
 
-[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [中文](README.zh-CN.md) · [Contribute](CONTRIBUTING.md)
+## Featured workflows
 
-## Coordinated image sets
+### Reading in a summer park
 
-### Kling AI examples
+Kling AI official example · [Open the full example](https://beatapi.io/prompts/kling-image-4-0/summer-park-reading)
+
+<a href="https://beatapi.io/prompts/kling-image-4-0/summer-park-reading"><img src="https://cdn.beatapi.io/model-pages/294cbc880ac3ed75bbb627a4ca62f08fd0bbe61016c5b76562d535547c41e625.webp" alt="Reading in a summer park" width="420" /></a>
+
+### Four-frame storybook
+
+Kling AI official example · [Open the full example](https://beatapi.io/prompts/kling-image-4-0/storybook-image-set)
+
+<a href="https://beatapi.io/prompts/kling-image-4-0/storybook-image-set"><img src="https://cdn.beatapi.io/model-pages/c296e4e065b1643f934384fea8eb70c617cb7258e6282455335a80c16ffa3d65.webp" alt="Four-frame storybook" width="420" /></a>
+
+### Reference-driven style transfer
+
+Kling AI official example · [Open the full example](https://beatapi.io/prompts/kling-image-4-0/reference-style-edit)
+
+<a href="https://beatapi.io/prompts/kling-image-4-0/reference-style-edit"><img src="https://cdn.beatapi.io/model-pages/f390b9373c118b8fd0b9e06cd31d14195c3a49e5aefc2092f168616fe89ca4cd.webp" alt="Reference-driven style transfer" width="420" /></a>
+
+### Ecommerce product detail page
+
+Kling AI official example · [Open the full example](https://beatapi.io/prompts/kling-image-4-0/ecommerce-long-form)
+
+## Creator examples on X
+
+- [Dive-bar group Polaroid](https://x.com/minchoi/status/2122906746310004762) · @minchoi · [Original prompt](https://x.com/minchoi/status/2122906746310004762)
+- [Handheld street portrait](https://x.com/minchoi/status/2122906750839886300) · @minchoi · [Original prompt](https://x.com/minchoi/status/2122906750839886300)
+- [Backyard birthday flash photo](https://x.com/minchoi/status/2122906755134886338) · @minchoi · [Original prompt](https://x.com/minchoi/status/2122906755134886338)
+- [Candid beach selfie](https://x.com/minchoi/status/2122906757852741999) · @minchoi · [Original prompt](https://x.com/minchoi/status/2122906757852741999)
+- [Hands folding a dumpling](https://x.com/minchoi/status/2122906761208234149) · @minchoi · [Original prompt](https://x.com/minchoi/status/2122906761208234149)
+- [Overhead diner breakfast](https://x.com/minchoi/status/2122906764295197110) · @minchoi · [Original prompt](https://x.com/minchoi/status/2122906764295197110)
+- [Wet dog in the back seat](https://x.com/minchoi/status/2122906768346943790) · @minchoi · [Original prompt](https://x.com/minchoi/status/2122906768346943790)
+- [Wildlife photography](https://x.com/HeyZoyaKhan/status/2122728805488033955) · @HeyZoyaKhan · [Original prompt](https://x.com/HeyZoyaKhan/status/2122728805488033955)
+- [Ultrawide cinematic landscape](https://x.com/HeyZoyaKhan/status/2122728839545851934) · @HeyZoyaKhan · [Original prompt](https://x.com/HeyZoyaKhan/status/2122728839545851934)
+- [Typography and poster design](https://x.com/HeyZoyaKhan/status/2122728880176005405) · @HeyZoyaKhan · [Original prompt](https://x.com/HeyZoyaKhan/status/2122728880176005405)
+- [Coordinated ecommerce product images](https://x.com/HeyZoyaKhan/status/2122728915966050364) · @HeyZoyaKhan · [Original prompt](https://x.com/HeyZoyaKhan/status/2122728915966050364)
+- [Nine-panel skincare storyboard](https://x.com/HBCoop_/status/2122726778791948733) · @HBCoop_ · [Original prompt](https://x.com/HBCoop_/status/2122727098465026189)
+- [Skincare campaign stills in Series mode](https://x.com/HBCoop_/status/2122726846106337448) · @HBCoop_
+- [New poses from three character references](https://x.com/HBCoop_/status/2122726870026510542) · @HBCoop_
+- [Product label detail and full image](https://x.com/HBCoop_/status/2122726893984321828) · @HBCoop_
+- [Product detail and web design workflows](https://x.com/HBCoop_/status/2122726966168289361) · @HBCoop_
+- [One bottle in four styles](https://x.com/HBCoop_/status/2122727017330380903) · @HBCoop_
+- [English and Chinese font comparison](https://x.com/HBCoop_/status/2122727051774034284) · @HBCoop_
+- [Fingertip and glass macro test](https://x.com/CharaspowerAI/status/2122718748599832869) · @CharaspowerAI
+- [A character series at multiple angles](https://x.com/CharaspowerAI/status/2122718781038567449) · @CharaspowerAI
+- [Typography in advertising visuals](https://x.com/CharaspowerAI/status/2122718806506394061) · @CharaspowerAI
+- [Image experiments with prompts in ALT](https://x.com/DrSadek_/status/2122729546994843939) · @DrSadek_ · [Original prompt](https://x.com/DrSadek_/status/2122729546994843939)
+- [Five-model greenhouse horror comparison](https://x.com/SeeAPIcom/status/2122943822929993933) · @SeeAPIcom · [Original prompt](https://x.com/SeeAPIcom/status/2122946501773320331) · Kling Image 4.0 / GPT Image 2.6 / Seedream 5.5 / MiniMax H3 Image / Nano Banana Pro
+- [Three-model phone-photo comparison](https://x.com/DavidRunsAds/status/2123043289385550257) · @DavidRunsAds · [Original prompt](https://x.com/DavidRunsAds/status/2123043460852629592) · Kling Image 4.0 / Nano Banana 2.1 / GPT Image 2.6
+- [Four-model anime poster comparison](https://x.com/Iancu_ai/status/2123060512284111346) · @Iancu_ai · Kling Image 4.0 / MiniMax H3 Image / GPT Image 2.6 / Seedream 5.5
+- [Four-model portrait texture comparison](https://x.com/genel_ai/status/2122859430736019654) · @genel_ai · Kling Image 4.0 / GPT Image 2.6 / Seedream 5.5 / MiniMax H3 Image
+- [Kling and GPT Image Japanese street portraits](https://x.com/seisei_ai_1st/status/2122714205253996865) · @seisei_ai_1st · Kling Image 4.0 / GPT Image 2.6
+- [Cinematic character texture and detail](https://x.com/TechieBySA/status/2122730692706521407) · @TechieBySA
+- [Character consistency across scenes](https://x.com/TechieBySA/status/2122730696430985384) · @TechieBySA
+- [Four sketches translated into multiple formats](https://x.com/akiyoshisan/status/2122890189140111494) · @akiyoshisan
+- [Diamond portrait detail study](https://x.com/fAIkout/status/2122878233263898888) · @fAIkout
+
+## Official references
+
+### Coordinated image sets
 
 - [Matching character views, set one](cases/first-character-turnaround-series.md)
 - [Matching character views, set two](cases/second-character-turnaround-series.md)
@@ -20,42 +78,12 @@ Browse 50 source-linked Kling AI examples and 50 original copyable prompts by ta
 - [Landscape environment series](cases/landscape-scenes.md)
 - [School environment series](cases/school-scenes.md)
 
-### Original prompts
-
-- [Bergamot perfume campaign](cases/perfumery-campaign-set.md)
-- [Folding bicycle catalog set](cases/folding-bicycle-catalog.md)
-- [Glazed tableware collection](cases/ceramic-tableware-series.md)
-- [Paper robot character views](cases/paper-robot-character-views.md)
-- [Mountain weather station storyboard](cases/meteor-station-storyboard.md)
-- [Modular desk accessories series](cases/modular-desk-accessories.md)
-- [Café breakfast campaign](cases/community-cafe-campaign.md)
-- [Paper city landmark set](cases/paper-city-landmarks.md)
-- [Outdoor jacket campaign set](cases/trail-jacket-campaign.md)
-- [Bookshop opening sequence](cases/bookshop-opening-story.md)
-
-## Ecommerce & website long images
-
-### Kling AI examples
+### Ecommerce & website long images
 
 - [Ceramic pot ecommerce page](cases/pot-product-long.md)
 - [Ceramic brand website visual](cases/ceramics-brand-long.md)
 
-### Original prompts
-
-- [Perfume product detail page](cases/perfume-story-page.md)
-- [Desk lamp product detail page](cases/desk-lamp-spec-page.md)
-- [Trail bottle product detail page](cases/trail-bottle-shop-page.md)
-- [Running shoe product detail page](cases/running-shoe-detail-page.md)
-- [Tableware product detail page](cases/tableware-detail-page.md)
-- [Ceramics studio landing page visual](cases/ceramics-website-long.md)
-- [Field journal website visual](cases/field-notes-website.md)
-- [Coffee roaster landing page visual](cases/coffee-roaster-website.md)
-- [Trail map studio portfolio visual](cases/trail-map-studio-website.md)
-- [Listening room website visual](cases/quiet-listening-website.md)
-
-## Typography & layout
-
-### Kling AI examples
+### Typography & layout
 
 - [Waterside cover design](cases/waterside-cover.md)
 - [Illustrated character poster](cases/illustrated-character-poster.md)
@@ -63,22 +91,7 @@ Browse 50 source-linked Kling AI examples and 50 original copyable prompts by ta
 - [Japanese-inspired graphic poster](cases/japanese-graphic-poster.md)
 - [Surreal fashion campaign poster](cases/surreal-fashion-poster.md)
 
-### Original prompts
-
-- [Weekend print fair poster](cases/weekend-print-fair.md)
-- [Chinese tea bar menu](cases/tea-bar-menu-zh.md)
-- [Museum label system](cases/small-museum-label.md)
-- [Japanese bookshop event placard](cases/japanese-bookshop-event.md)
-- [Bike parking wayfinding card](cases/bike-parking-map.md)
-- [Sparkling water can label](cases/sparkling-water-label.md)
-- [Fermentation process infographic](cases/fermentation-infographic.md)
-- [Chinese exhibition ticket](cases/exhibition-tickets-zh.md)
-- [Short film title card](cases/short-film-title-card.md)
-- [Ceramics studio class schedule](cases/studio-class-schedule.md)
-
-## Reference-guided editing
-
-### Kling AI examples
+### Reference-guided editing
 
 - [Character reference sheet](cases/character-reference-sheet.md)
 - [White-background character views](cases/white-background-turnaround.md)
@@ -97,22 +110,7 @@ Browse 50 source-linked Kling AI examples and 50 original copyable prompts by ta
 - [Reference style recreation](cases/style-recreation.md)
 - [Identity-preserving portrait edit](cases/portrait-identity-transfer.md)
 
-### Original prompts
-
-- [Move perfume onto white marble](cases/perfume-marble-edit.md)
-- [Change a runner to forest green](cases/shoe-colorway-edit.md)
-- [Relight a lamp for evening](cases/lamp-evening-edit.md)
-- [Combine a ceramic cup and a linen reference](cases/cup-and-linen-edit.md)
-- [Move a trail bottle into cool forest shade](cases/bottle-shade-edit.md)
-- [Replace the copy in a poster layout](cases/poster-layout-edit.md)
-- [Translate a cup photo to overhead view](cases/cup-angle-edit.md)
-- [Give perfume a blue editorial color grade](cases/perfume-color-style-edit.md)
-- [Remove styling props around a running shoe](cases/shoe-remove-props.md)
-- [Combine lamp and ceramic cup in one scene](cases/product-pair-edit.md)
-
-## Photography & character design
-
-### Kling AI examples
+### Photography & character design
 
 - [Reading in a summer park](cases/summer-park-reading.md)
 - [Tabby on a charcoal sofa](cases/tabby-sofa.md)
@@ -133,18 +131,14 @@ Browse 50 source-linked Kling AI examples and 50 original copyable prompts by ta
 - [Everyday documentary still](cases/everyday-documentary.md)
 - [Documentary character study](cases/documentary-character.md)
 
-### Original prompts
+[50 additional original prompt templates awaiting tests](TEMPLATES.md)
 
-- [Copper kettle in winter light](cases/copper-kettle-window.md)
-- [A flower market after rain](cases/after-rain-market.md)
-- [Charcoal runner product photo](cases/charcoal-running-shoe.md)
-- [A potter at work](cases/pottery-workshop-portrait.md)
-- [Last bus stop at dusk](cases/night-bus-stop.md)
-- [Iced tea glass macro](cases/iced-tea-macro.md)
-- [Forest trail and waterfall](cases/quiet-trail-waterfall.md)
-- [Folded denim texture study](cases/folded-denim-high-detail.md)
-- [Reading lamp interior photo](cases/brass-lamp-living-room.md)
-- [Overhead fig tart styling](cases/fig-dessert-overhead.md)
+## More galleries
+
+- [MiniMax H3 Image](https://beatapi.io/minimax-h3-image-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-image-prompts)
+- [Seedream 5.5](https://beatapi.io/seedream-5-5-prompts) · [GitHub](https://github.com/BeatAPI/awesome-seedream-5-5-prompts)
+- [GPT Image 2.6](https://beatapi.io/gpt-image-2-6-prompts) · [GitHub](https://github.com/BeatAPI/awesome-gpt-image-2-6-prompts)
+- [MiniMax H3 Video](https://beatapi.io/minimax-h3-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ## Sources and reuse
 

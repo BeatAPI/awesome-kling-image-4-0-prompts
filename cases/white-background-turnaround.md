@@ -2,7 +2,7 @@
 
 白底角色三视图 · 白背景のキャラクター三面図
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/white-background-turnaround) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

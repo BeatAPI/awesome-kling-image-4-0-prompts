@@ -2,7 +2,7 @@
 
 写实商品生活场景 · 写実的な商品の使用シーン
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/lifestyle-product) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

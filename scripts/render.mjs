@@ -17,6 +17,12 @@ const categories = {
   'reference-edit': ['Reference-guided editing', '参考图编辑'],
   photography: ['Photography & character design', '摄影与角色设计'],
 };
+const related = [
+  ['MiniMax H3 Image', '/minimax-h3-image-prompts', 'awesome-minimax-h3-image-prompts'],
+  ['Seedream 5.5', '/seedream-5-5-prompts', 'awesome-seedream-5-5-prompts'],
+  ['GPT Image 2.6', '/gpt-image-2-6-prompts', 'awesome-gpt-image-2-6-prompts'],
+  ['MiniMax H3 Video', '/minimax-h3-prompts', 'awesome-minimax-h3-prompts'],
+];
 const items = [...data.examples, ...data.prompts];
 const ids = new Set();
 const prompts = new Set();
@@ -28,6 +34,13 @@ function require(condition, message) {
 
 require(data.model === 'Kling Image 4.0', 'Incorrect model');
 require(data.examples.length >= 50 && data.prompts.length >= 50, 'Expected at least 50 source examples and 50 prompts');
+require(new Set(data.community.map((item) => item.source)).size === data.community.length, 'Duplicate community source');
+for (const item of data.community) {
+  require(/^https:\/\/x\.com\/[A-Za-z0-9_]+\/status\/\d+$/.test(item.source), 'Invalid X post URL');
+  if (item.promptSource) {
+    require(/^https:\/\/x\.com\/[A-Za-z0-9_]+\/status\/\d+$/.test(item.promptSource), 'Invalid X prompt URL');
+  }
+}
 require(data.examples.every((item) => item.itemType === 'example'), 'Source example in the wrong section');
 require(data.prompts.every((item) => item.itemType === 'template'), 'Template in the wrong section');
 
@@ -74,19 +87,32 @@ function galleryLink(lang) {
 function index(lang) {
   const cn = lang === 'zh';
   const title = cn ? 'Kling Image 4.0 提示词画廊' : 'Awesome Kling Image 4.0 Prompts';
+  const promptSources = data.community.filter((item) => item.promptSource).length;
   const lead = cn
-    ? `按任务查找 ${data.examples.length} 条可灵官方案例和 ${data.prompts.length} 条可复制的原创 Prompt。官方案例在原指南中提供提示词和对应输出。原创 Prompt 附建议设置与参考图要求，当前为待实测模板。`
-    : `Browse ${data.examples.length} source-linked Kling AI examples and ${data.prompts.length} original copyable prompts by task. Each official example links to its prompt and matching images. The original prompts include suggested settings and reference requirements and are awaiting generation tests.`;
+    ? `${data.community.length} 条社区作品，其中 ${promptSources} 条附作者的原 Prompt 链接。另有 ${data.examples.length} 条可灵官方参考案例。`
+    : `${data.community.length} community examples, including ${promptSources} with creator-published prompts. Browse ${data.examples.length} additional official Kling AI references.`;
+  const community = data.community.map((item) => {
+    const prompt = item.promptSource ? ` · [${cn ? '原 Prompt' : 'Original prompt'}](${item.promptSource})` : '';
+    const models = item.models?.length ? ` · ${item.models.join(' / ')}` : '';
+    return `- [${item.title[lang]}](${item.source}) · ${item.author}${prompt}${models}`;
+  }).join('\n');
+  const featured = data.featured.map((item) => {
+    const here = `${site}${cn ? '/zh' : ''}${detail}/${item.slug}`;
+    const link = `<a href="${here}"><img src="${item.preview}" alt="${item.title[lang]}" width="420" /></a>`;
+    // Tall output stays on the linked detail page, where it can be read at full size.
+    return `### ${item.title[lang]}\n\n${cn ? '可灵官方案例' : 'Kling AI official example'} · [${cn ? '查看完整案例' : 'Open the full example'}](${here})${item.slug === 'ecommerce-long-form' ? '' : '\n\n' + link}`;
+  }).join('\n\n');
+  const more = related.map(([name, route, repo]) => `- [${name}](${site}${cn ? '/zh' : ''}${route}) · [GitHub](https://github.com/BeatAPI/${repo})`).join('\n');
   const lists = Object.entries(categories).map(([key, labels]) => {
     const rows = (list) => list.filter((item) => item.category === key)
       .map((item) => `- [${item.title[lang]}](cases/${item.slug}.md)`).join('\n');
-    return `## ${labels[cn ? 1 : 0]}\n\n### ${cn ? '可灵官方案例' : 'Kling AI examples'}\n\n${rows(data.examples)}\n\n### ${cn ? '原创提示词' : 'Original prompts'}\n\n${rows(data.prompts)}`;
+    return `### ${labels[cn ? 1 : 0]}\n\n${rows(data.examples)}`;
   });
-  return `# ${title}\n\n![${cn ? 'BeatAPI 图库封面插画' : 'BeatAPI gallery cover illustration'}](assets/gallery-cover.webp)\n\n${lead}\n\n[${cn ? '打开 BeatAPI 图库' : 'Browse the BeatAPI gallery'}](${galleryLink(lang)}) · [${cn ? 'English' : '中文'}](${cn ? 'README.md' : 'README.zh-CN.md'}) · [${cn ? '提交案例' : 'Contribute'}](CONTRIBUTING.md)\n\n${lists.join('\n\n')}\n\n## ${cn ? '来源与复用' : 'Sources and reuse'}\n\n${cn ? '官方案例的提示词、输入图和输出图均指向可灵原始页面或源文件。原创提示词遵循本仓库许可。' : 'Official prompts, inputs and outputs link to the original Kling AI guide or its source files. The repository license covers the original templates.'} [${cn ? '可灵官方指南' : 'Kling AI guide'}](${official}) · [CC BY 4.0](LICENSE.md).\n\n${cn ? '以上目录由' : 'The indexes and case files are generated from'} [data/catalog.json](data/catalog.json)${cn ? ' 生成。' : '.'}`;
+  return `<p align="center"><a href="${site}"><img src="./assets/readme-hero.png" alt="${cn ? 'Kling Image 4.0 提示词图库封面插画' : 'Kling Image 4.0 Prompt Gallery cover illustration'}" width="100%" /></a></p>\n\n# ${title}\n\n${lead}\n\n**[${cn ? 'BeatAPI 首页' : 'BeatAPI home'}](${site})** · **[${cn ? '浏览图库' : 'Browse the gallery'}](${galleryLink(lang)})** · **[${cn ? '模型预告' : 'Model preview'}](${site}${cn ? '/zh' : ''}/kling-4-0-image-api)** · **[${cn ? 'English' : '中文'}](${cn ? 'README.md' : 'README.zh-CN.md'})** · **[${cn ? '提交案例' : 'Contribute a case'}](https://github.com/BeatAPI/awesome-kling-image-4-0-prompts/issues/new?template=prompt.yml)**\n\n## ${cn ? '精选工作流' : 'Featured workflows'}\n\n${featured}\n\n## ${cn ? '社区原帖' : 'Creator examples on X'}\n\n${community}\n\n## ${cn ? '官方参考' : 'Official references'}\n\n${lists.join('\n\n')}\n\n[${cn ? '额外的 50 条待验证原创模板' : '50 additional original prompt templates awaiting tests'}](TEMPLATES.md)\n\n## ${cn ? '更多图库' : 'More galleries'}\n\n${more}\n\n## ${cn ? '来源与复用' : 'Sources and reuse'}\n\n${cn ? '官方案例的提示词、输入图和输出图均指向可灵原始页面或源文件。原创提示词遵循本仓库许可。' : 'Official prompts, inputs and outputs link to the original Kling AI guide or its source files. The repository license covers the original templates.'} [${cn ? '可灵官方指南' : 'Kling AI guide'}](${official}) · [CC BY 4.0](LICENSE.md).\n\n${cn ? '以上目录由' : 'The indexes and case files are generated from'} [data/catalog.json](data/catalog.json)${cn ? ' 生成。' : '.'}`;
 }
 
 function casePage(item) {
-  const siteLink = `[View on BeatAPI](${site}${detail}/${item.slug})`;
+  const siteLink = `[Browse the BeatAPI gallery](${site}${gallery})`;
   const header = `# ${item.title.en}\n\n${item.title.zh} · ${item.title.ja}\n\n${siteLink} · [All cases](../README.md)`;
   const media = (urls, prefix) => urls.map((url, i) => `- [${prefix} ${i + 1}](${url})`).join('\n');
   if (item.itemType === 'example') {
@@ -103,6 +129,7 @@ function casePage(item) {
 if (!check) mkdirSync(join(root, 'cases'), { recursive: true });
 output('README.md', index('en'));
 output('README.zh-CN.md', index('zh'));
+output('TEMPLATES.md', `# Original prompt templates\n\nThese templates include suggested settings and are awaiting generation tests.\n\n${data.prompts.map((item) => `- [${item.title.en}](cases/${item.slug}.md)`).join('\n')}`);
 for (const item of items) output(`cases/${item.slug}.md`, casePage(item));
 require(readdirSync(join(root, 'cases')).filter((file) => file.endsWith('.md')).length === items.length, 'Unexpected case files');
 console.log(`Validated ${data.examples.length} source examples and ${data.prompts.length} original prompts`);

@@ -2,7 +2,7 @@
 
 同版式角色视图第二组 · 同じ形式のキャラクター三面図・第2組
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/second-character-turnaround-series) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

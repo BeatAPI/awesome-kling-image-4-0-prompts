@@ -1,14 +1,72 @@
+<p align="center"><a href="https://beatapi.io"><img src="./assets/readme-hero.png" alt="Kling Image 4.0 提示词图库封面插画" width="100%" /></a></p>
+
 # Kling Image 4.0 提示词画廊
 
-![BeatAPI 图库封面插画](assets/gallery-cover.webp)
+31 条社区作品，其中 15 条附作者的原 Prompt 链接。另有 50 条可灵官方参考案例。
 
-按任务查找 50 条可灵官方案例和 50 条可复制的原创 Prompt。官方案例在原指南中提供提示词和对应输出。原创 Prompt 附建议设置与参考图要求，当前为待实测模板。
+**[BeatAPI 首页](https://beatapi.io)** · **[浏览图库](https://beatapi.io/zh/kling-image-4-0-prompts)** · **[模型预告](https://beatapi.io/zh/kling-4-0-image-api)** · **[English](README.md)** · **[提交案例](https://github.com/BeatAPI/awesome-kling-image-4-0-prompts/issues/new?template=prompt.yml)**
 
-[打开 BeatAPI 图库](https://beatapi.io/zh/kling-image-4-0-prompts) · [English](README.md) · [提交案例](CONTRIBUTING.md)
+## 精选工作流
 
-## 连续组图
+### 夏日公园读书照
 
-### 可灵官方案例
+可灵官方案例 · [查看完整案例](https://beatapi.io/zh/prompts/kling-image-4-0/summer-park-reading)
+
+<a href="https://beatapi.io/zh/prompts/kling-image-4-0/summer-park-reading"><img src="https://cdn.beatapi.io/model-pages/294cbc880ac3ed75bbb627a4ca62f08fd0bbe61016c5b76562d535547c41e625.webp" alt="夏日公园读书照" width="420" /></a>
+
+### 四帧绘本组图
+
+可灵官方案例 · [查看完整案例](https://beatapi.io/zh/prompts/kling-image-4-0/storybook-image-set)
+
+<a href="https://beatapi.io/zh/prompts/kling-image-4-0/storybook-image-set"><img src="https://cdn.beatapi.io/model-pages/c296e4e065b1643f934384fea8eb70c617cb7258e6282455335a80c16ffa3d65.webp" alt="四帧绘本组图" width="420" /></a>
+
+### 双参考图风格迁移
+
+可灵官方案例 · [查看完整案例](https://beatapi.io/zh/prompts/kling-image-4-0/reference-style-edit)
+
+<a href="https://beatapi.io/zh/prompts/kling-image-4-0/reference-style-edit"><img src="https://cdn.beatapi.io/model-pages/f390b9373c118b8fd0b9e06cd31d14195c3a49e5aefc2092f168616fe89ca4cd.webp" alt="双参考图风格迁移" width="420" /></a>
+
+### 商品详情长图
+
+可灵官方案例 · [查看完整案例](https://beatapi.io/zh/prompts/kling-image-4-0/ecommerce-long-form)
+
+## 社区原帖
+
+- [酒吧朋友合影](https://x.com/minchoi/status/2122906746310004762) · @minchoi · [原 Prompt](https://x.com/minchoi/status/2122906746310004762)
+- [手持街头人像](https://x.com/minchoi/status/2122906750839886300) · @minchoi · [原 Prompt](https://x.com/minchoi/status/2122906750839886300)
+- [后院生日闪光照](https://x.com/minchoi/status/2122906755134886338) · @minchoi · [原 Prompt](https://x.com/minchoi/status/2122906755134886338)
+- [海滩随手自拍](https://x.com/minchoi/status/2122906757852741999) · @minchoi · [原 Prompt](https://x.com/minchoi/status/2122906757852741999)
+- [包饺子的手部特写](https://x.com/minchoi/status/2122906761208234149) · @minchoi · [原 Prompt](https://x.com/minchoi/status/2122906761208234149)
+- [餐馆早餐俯拍](https://x.com/minchoi/status/2122906764295197110) · @minchoi · [原 Prompt](https://x.com/minchoi/status/2122906764295197110)
+- [车后座上的湿毛狗](https://x.com/minchoi/status/2122906768346943790) · @minchoi · [原 Prompt](https://x.com/minchoi/status/2122906768346943790)
+- [野生动物摄影](https://x.com/HeyZoyaKhan/status/2122728805488033955) · @HeyZoyaKhan · [原 Prompt](https://x.com/HeyZoyaKhan/status/2122728805488033955)
+- [超宽幅电影感风景](https://x.com/HeyZoyaKhan/status/2122728839545851934) · @HeyZoyaKhan · [原 Prompt](https://x.com/HeyZoyaKhan/status/2122728839545851934)
+- [文字排版与海报](https://x.com/HeyZoyaKhan/status/2122728880176005405) · @HeyZoyaKhan · [原 Prompt](https://x.com/HeyZoyaKhan/status/2122728880176005405)
+- [电商商品组图](https://x.com/HeyZoyaKhan/status/2122728915966050364) · @HeyZoyaKhan · [原 Prompt](https://x.com/HeyZoyaKhan/status/2122728915966050364)
+- [护肤广告九格分镜](https://x.com/HBCoop_/status/2122726778791948733) · @HBCoop_ · [原 Prompt](https://x.com/HBCoop_/status/2122727098465026189)
+- [系列模式的护肤广告图](https://x.com/HBCoop_/status/2122726846106337448) · @HBCoop_
+- [三张参考图生成新姿势](https://x.com/HBCoop_/status/2122726870026510542) · @HBCoop_
+- [商品标签的原图与细节](https://x.com/HBCoop_/status/2122726893984321828) · @HBCoop_
+- [商品详情页和网页设计工作流](https://x.com/HBCoop_/status/2122726966168289361) · @HBCoop_
+- [同一瓶身的四种画风](https://x.com/HBCoop_/status/2122727017330380903) · @HBCoop_
+- [中英文海报字体对照](https://x.com/HBCoop_/status/2122727051774034284) · @HBCoop_
+- [指尖与玻璃的微距测试](https://x.com/CharaspowerAI/status/2122718748599832869) · @CharaspowerAI
+- [多角色多视角组图](https://x.com/CharaspowerAI/status/2122718781038567449) · @CharaspowerAI
+- [广告视觉中文字排版](https://x.com/CharaspowerAI/status/2122718806506394061) · @CharaspowerAI
+- [原图 ALT 中附 Prompt 的试验](https://x.com/DrSadek_/status/2122729546994843939) · @DrSadek_ · [原 Prompt](https://x.com/DrSadek_/status/2122729546994843939)
+- [五模型温室恐怖场景对比](https://x.com/SeeAPIcom/status/2122943822929993933) · @SeeAPIcom · [原 Prompt](https://x.com/SeeAPIcom/status/2122946501773320331) · Kling Image 4.0 / GPT Image 2.6 / Seedream 5.5 / MiniMax H3 Image / Nano Banana Pro
+- [三模型手机照片对比](https://x.com/DavidRunsAds/status/2123043289385550257) · @DavidRunsAds · [原 Prompt](https://x.com/DavidRunsAds/status/2123043460852629592) · Kling Image 4.0 / Nano Banana 2.1 / GPT Image 2.6
+- [四模型动画海报对比](https://x.com/Iancu_ai/status/2123060512284111346) · @Iancu_ai · Kling Image 4.0 / MiniMax H3 Image / GPT Image 2.6 / Seedream 5.5
+- [四模型人像与纹理对比](https://x.com/genel_ai/status/2122859430736019654) · @genel_ai · Kling Image 4.0 / GPT Image 2.6 / Seedream 5.5 / MiniMax H3 Image
+- [可灵与 GPT Image 日本街拍对照](https://x.com/seisei_ai_1st/status/2122714205253996865) · @seisei_ai_1st · Kling Image 4.0 / GPT Image 2.6
+- [角色细节与材质测试](https://x.com/TechieBySA/status/2122730692706521407) · @TechieBySA
+- [跨场景角色一致性](https://x.com/TechieBySA/status/2122730696430985384) · @TechieBySA
+- [四幅手绘角色跨版式转译](https://x.com/akiyoshisan/status/2122890189140111494) · @akiyoshisan
+- [钻石主题人像细节](https://x.com/fAIkout/status/2122878233263898888) · @fAIkout
+
+## 官方参考
+
+### 连续组图
 
 - [同版式角色视图第一组](cases/first-character-turnaround-series.md)
 - [同版式角色视图第二组](cases/second-character-turnaround-series.md)
@@ -20,42 +78,12 @@
 - [自然地貌场景组图](cases/landscape-scenes.md)
 - [校园场景组图](cases/school-scenes.md)
 
-### 原创提示词
-
-- [佛手柑香水广告组图](cases/perfumery-campaign-set.md)
-- [折叠自行车产品组图](cases/folding-bicycle-catalog.md)
-- [釉面餐具系列图](cases/ceramic-tableware-series.md)
-- [纸质机器人多视角设定](cases/paper-robot-character-views.md)
-- [山顶气象站分镜组图](cases/meteor-station-storyboard.md)
-- [桌面配件系列图](cases/modular-desk-accessories.md)
-- [咖啡店早餐系列广告](cases/community-cafe-campaign.md)
-- [纸雕城市地标组图](cases/paper-city-landmarks.md)
-- [户外夹克广告组图](cases/trail-jacket-campaign.md)
-- [书店开门分镜组图](cases/bookshop-opening-story.md)
-
-## 电商与网页长图
-
-### 可灵官方案例
+### 电商与网页长图
 
 - [陶锅电商详情长图](cases/pot-product-long.md)
 - [陶瓷品牌网页长图](cases/ceramics-brand-long.md)
 
-### 原创提示词
-
-- [香水电商详情长图](cases/perfume-story-page.md)
-- [台灯电商详情长图](cases/desk-lamp-spec-page.md)
-- [户外水壶电商详情长图](cases/trail-bottle-shop-page.md)
-- [跑鞋电商详情长图](cases/running-shoe-detail-page.md)
-- [陶瓷餐具电商详情长图](cases/tableware-detail-page.md)
-- [陶艺工作室网页长图](cases/ceramics-website-long.md)
-- [自然观察刊物网页长图](cases/field-notes-website.md)
-- [咖啡烘焙品牌网页长图](cases/coffee-roaster-website.md)
-- [步道地图设计工作室网页长图](cases/trail-map-studio-website.md)
-- [音乐试听室网页长图](cases/quiet-listening-website.md)
-
-## 文字排版
-
-### 可灵官方案例
+### 文字排版
 
 - [水边封面设计](cases/waterside-cover.md)
 - [卡通角色海报](cases/illustrated-character-poster.md)
@@ -63,22 +91,7 @@
 - [日式平面海报](cases/japanese-graphic-poster.md)
 - [超现实时尚广告海报](cases/surreal-fashion-poster.md)
 
-### 原创提示词
-
-- [周末版画市集海报](cases/weekend-print-fair.md)
-- [中文茶饮菜单](cases/tea-bar-menu-zh.md)
-- [博物馆展签](cases/small-museum-label.md)
-- [日文书店活动立牌](cases/japanese-bookshop-event.md)
-- [自行车停车导视卡](cases/bike-parking-map.md)
-- [气泡水罐身标签](cases/sparkling-water-label.md)
-- [发酵流程信息图](cases/fermentation-infographic.md)
-- [中文展览门票](cases/exhibition-tickets-zh.md)
-- [短片片头字卡](cases/short-film-title-card.md)
-- [陶艺教室课程表](cases/studio-class-schedule.md)
-
-## 参考图编辑
-
-### 可灵官方案例
+### 参考图编辑
 
 - [角色参考设定图](cases/character-reference-sheet.md)
 - [白底角色三视图](cases/white-background-turnaround.md)
@@ -97,22 +110,7 @@
 - [参考画风重建](cases/style-recreation.md)
 - [保持人物身份的肖像编辑](cases/portrait-identity-transfer.md)
 
-### 原创提示词
-
-- [香水换白色大理石背景](cases/perfume-marble-edit.md)
-- [将跑鞋换成松林绿配色](cases/shoe-colorway-edit.md)
-- [台灯场景改成夜间暖光](cases/lamp-evening-edit.md)
-- [合并陶瓷杯与亚麻布参考](cases/cup-and-linen-edit.md)
-- [把水壶放入森林阴影](cases/bottle-shade-edit.md)
-- [在同版式内替换海报文字](cases/poster-layout-edit.md)
-- [从斜视图推演陶瓷杯俯拍](cases/cup-angle-edit.md)
-- [给香水场景换蓝色编辑调色](cases/perfume-color-style-edit.md)
-- [移除跑鞋周围道具](cases/shoe-remove-props.md)
-- [合成台灯和陶瓷杯场景](cases/product-pair-edit.md)
-
-## 摄影与角色设计
-
-### 可灵官方案例
+### 摄影与角色设计
 
 - [夏日公园读书照](cases/summer-park-reading.md)
 - [深灰沙发上的橘猫](cases/tabby-sofa.md)
@@ -133,18 +131,14 @@
 - [日常纪实画面](cases/everyday-documentary.md)
 - [纪实人物观察](cases/documentary-character.md)
 
-### 原创提示词
+[额外的 50 条待验证原创模板](TEMPLATES.md)
 
-- [冬日窗边的铜壶](cases/copper-kettle-window.md)
-- [雨后的花市](cases/after-rain-market.md)
-- [炭灰色跑鞋棚拍](cases/charcoal-running-shoe.md)
-- [陶艺师工作肖像](cases/pottery-workshop-portrait.md)
-- [暮色里的末班公交站](cases/night-bus-stop.md)
-- [冰茶玻璃杯微距](cases/iced-tea-macro.md)
-- [林间小路与瀑布](cases/quiet-trail-waterfall.md)
-- [折叠牛仔布纹理特写](cases/folded-denim-high-detail.md)
-- [黄铜阅读灯室内照](cases/brass-lamp-living-room.md)
-- [无花果塔俯拍](cases/fig-dessert-overhead.md)
+## 更多图库
+
+- [MiniMax H3 Image](https://beatapi.io/zh/minimax-h3-image-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-image-prompts)
+- [Seedream 5.5](https://beatapi.io/zh/seedream-5-5-prompts) · [GitHub](https://github.com/BeatAPI/awesome-seedream-5-5-prompts)
+- [GPT Image 2.6](https://beatapi.io/zh/gpt-image-2-6-prompts) · [GitHub](https://github.com/BeatAPI/awesome-gpt-image-2-6-prompts)
+- [MiniMax H3 Video](https://beatapi.io/zh/minimax-h3-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
 
 ## 来源与复用
 

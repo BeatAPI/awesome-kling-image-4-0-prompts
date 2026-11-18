@@ -2,7 +2,7 @@
 
 中文展览门票 · 中国語の展覧会チケット
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/exhibition-tickets-zh) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

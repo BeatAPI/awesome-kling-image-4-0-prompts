@@ -2,7 +2,7 @@
 
 角色参考设定图 · キャラクター設定資料
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/character-reference-sheet) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

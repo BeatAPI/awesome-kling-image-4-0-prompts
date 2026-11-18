@@ -2,7 +2,7 @@
 
 将商品插画转成效果图 · 商品イラストを完成イメージに変換
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/illustration-product-render) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

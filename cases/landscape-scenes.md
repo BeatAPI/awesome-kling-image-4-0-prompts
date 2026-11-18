@@ -2,7 +2,7 @@
 
 自然地貌场景组图 · 自然風景のシリーズ
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/landscape-scenes) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

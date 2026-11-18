@@ -2,7 +2,7 @@
 
 折叠自行车产品组图 · 折りたたみ自転車のカタログシリーズ
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/folding-bicycle-catalog) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

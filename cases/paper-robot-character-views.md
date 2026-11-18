@@ -2,7 +2,7 @@
 
 纸质机器人多视角设定 · 紙製ロボットの多視点デザイン
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/paper-robot-character-views) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

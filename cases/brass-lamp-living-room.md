@@ -2,7 +2,7 @@
 
 黄铜阅读灯室内照 · 真鍮の読書灯がある室内
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/brass-lamp-living-room) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

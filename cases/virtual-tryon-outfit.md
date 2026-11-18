@@ -2,7 +2,7 @@
 
 多参考服装试穿 · 複数の参照画像を使った試着イメージ
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/virtual-tryon-outfit) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

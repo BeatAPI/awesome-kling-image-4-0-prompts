@@ -2,7 +2,7 @@
 
 在同版式内替换海报文字 · ポスターのレイアウトを保って文字を差し替える
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/poster-layout-edit) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

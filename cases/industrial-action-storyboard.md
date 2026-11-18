@@ -2,7 +2,7 @@
 
 工业空间动作分镜 · 工業施設を舞台にしたアクション絵コンテ
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/industrial-action-storyboard) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

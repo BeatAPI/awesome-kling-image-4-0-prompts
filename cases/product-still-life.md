@@ -2,7 +2,7 @@
 
 参考图驱动的商品静物 · 参照画像を使った商品写真
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/product-still-life) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

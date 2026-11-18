@@ -2,7 +2,7 @@
 
 浪漫音乐剧分镜 · 恋愛ミュージカルの絵コンテ
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/musical-storyboard) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

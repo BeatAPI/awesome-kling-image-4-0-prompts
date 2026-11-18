@@ -2,7 +2,7 @@
 
 折叠牛仔布纹理特写 · 折りたたんだデニムの質感
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/folded-denim-high-detail) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

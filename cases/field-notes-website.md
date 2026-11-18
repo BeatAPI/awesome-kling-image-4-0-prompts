@@ -2,7 +2,7 @@
 
 自然观察刊物网页长图 · 自然観察誌のウェブサイト画像
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/field-notes-website) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

@@ -2,7 +2,7 @@
 
 拟人动物海盗阵容 · 動物の海賊キャラクター一覧
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/pirate-cast-lineup) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

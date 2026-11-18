@@ -2,7 +2,7 @@
 
 中文茶饮菜单 · 中国語のティーバーメニュー
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/tea-bar-menu-zh) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

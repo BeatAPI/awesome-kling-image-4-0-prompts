@@ -2,7 +2,7 @@
 
 冰茶玻璃杯微距 · アイスティーグラスのマクロ写真
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/iced-tea-macro) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

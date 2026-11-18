@@ -2,7 +2,7 @@
 
 香水电商详情长图 · 香水の商品詳細ロング画像
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/perfume-story-page) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

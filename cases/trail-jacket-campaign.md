@@ -2,7 +2,7 @@
 
 户外夹克广告组图 · アウトドアジャケットの広告シリーズ
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/trail-jacket-campaign) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

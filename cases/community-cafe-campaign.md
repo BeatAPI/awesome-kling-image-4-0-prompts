@@ -2,7 +2,7 @@
 
 咖啡店早餐系列广告 · カフェの朝食キャンペーン
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/community-cafe-campaign) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 

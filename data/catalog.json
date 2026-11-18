@@ -1731,5 +1731,363 @@
         "blue-cup"
       ]
     }
+  ],
+  "community": [
+    {
+      "author": "@minchoi",
+      "source": "https://x.com/minchoi/status/2122906746310004762",
+      "title": {
+        "en": "Dive-bar group Polaroid",
+        "zh": "酒吧朋友合影",
+        "ja": "バーで撮ったポラロイド"
+      },
+      "promptSource": "https://x.com/minchoi/status/2122906746310004762"
+    },
+    {
+      "author": "@minchoi",
+      "source": "https://x.com/minchoi/status/2122906750839886300",
+      "title": {
+        "en": "Handheld street portrait",
+        "zh": "手持街头人像",
+        "ja": "手持ちカメラの街頭ポートレート"
+      },
+      "promptSource": "https://x.com/minchoi/status/2122906750839886300"
+    },
+    {
+      "author": "@minchoi",
+      "source": "https://x.com/minchoi/status/2122906755134886338",
+      "title": {
+        "en": "Backyard birthday flash photo",
+        "zh": "后院生日闪光照",
+        "ja": "裏庭の誕生日会を写したフラッシュ写真"
+      },
+      "promptSource": "https://x.com/minchoi/status/2122906755134886338"
+    },
+    {
+      "author": "@minchoi",
+      "source": "https://x.com/minchoi/status/2122906757852741999",
+      "title": {
+        "en": "Candid beach selfie",
+        "zh": "海滩随手自拍",
+        "ja": "ビーチでの自然な自撮り"
+      },
+      "promptSource": "https://x.com/minchoi/status/2122906757852741999"
+    },
+    {
+      "author": "@minchoi",
+      "source": "https://x.com/minchoi/status/2122906761208234149",
+      "title": {
+        "en": "Hands folding a dumpling",
+        "zh": "包饺子的手部特写",
+        "ja": "餃子を包む手のクローズアップ"
+      },
+      "promptSource": "https://x.com/minchoi/status/2122906761208234149"
+    },
+    {
+      "author": "@minchoi",
+      "source": "https://x.com/minchoi/status/2122906764295197110",
+      "title": {
+        "en": "Overhead diner breakfast",
+        "zh": "餐馆早餐俯拍",
+        "ja": "ダイナーの朝食を真上から撮影"
+      },
+      "promptSource": "https://x.com/minchoi/status/2122906764295197110"
+    },
+    {
+      "author": "@minchoi",
+      "source": "https://x.com/minchoi/status/2122906768346943790",
+      "title": {
+        "en": "Wet dog in the back seat",
+        "zh": "车后座上的湿毛狗",
+        "ja": "車の後部座席に座る濡れた犬"
+      },
+      "promptSource": "https://x.com/minchoi/status/2122906768346943790"
+    },
+    {
+      "author": "@HeyZoyaKhan",
+      "source": "https://x.com/HeyZoyaKhan/status/2122728805488033955",
+      "title": {
+        "en": "Wildlife photography",
+        "zh": "野生动物摄影",
+        "ja": "野生動物の写真"
+      },
+      "promptSource": "https://x.com/HeyZoyaKhan/status/2122728805488033955"
+    },
+    {
+      "author": "@HeyZoyaKhan",
+      "source": "https://x.com/HeyZoyaKhan/status/2122728839545851934",
+      "title": {
+        "en": "Ultrawide cinematic landscape",
+        "zh": "超宽幅电影感风景",
+        "ja": "超横長の映画風風景"
+      },
+      "promptSource": "https://x.com/HeyZoyaKhan/status/2122728839545851934"
+    },
+    {
+      "author": "@HeyZoyaKhan",
+      "source": "https://x.com/HeyZoyaKhan/status/2122728880176005405",
+      "title": {
+        "en": "Typography and poster design",
+        "zh": "文字排版与海报",
+        "ja": "文字組みとポスター"
+      },
+      "promptSource": "https://x.com/HeyZoyaKhan/status/2122728880176005405"
+    },
+    {
+      "author": "@HeyZoyaKhan",
+      "source": "https://x.com/HeyZoyaKhan/status/2122728915966050364",
+      "title": {
+        "en": "Coordinated ecommerce product images",
+        "zh": "电商商品组图",
+        "ja": "統一感のある商品画像セット"
+      },
+      "promptSource": "https://x.com/HeyZoyaKhan/status/2122728915966050364"
+    },
+    {
+      "author": "@HBCoop_",
+      "source": "https://x.com/HBCoop_/status/2122726778791948733",
+      "title": {
+        "en": "Nine-panel skincare storyboard",
+        "zh": "护肤广告九格分镜",
+        "ja": "スキンケア広告の9コマ絵コンテ"
+      },
+      "promptSource": "https://x.com/HBCoop_/status/2122727098465026189"
+    },
+    {
+      "author": "@HBCoop_",
+      "source": "https://x.com/HBCoop_/status/2122726846106337448",
+      "title": {
+        "en": "Skincare campaign stills in Series mode",
+        "zh": "系列模式的护肤广告图",
+        "ja": "シリーズモードで作ったスキンケア広告"
+      }
+    },
+    {
+      "author": "@HBCoop_",
+      "source": "https://x.com/HBCoop_/status/2122726870026510542",
+      "title": {
+        "en": "New poses from three character references",
+        "zh": "三张参考图生成新姿势",
+        "ja": "3枚の参照画像を使った新しいポーズ"
+      }
+    },
+    {
+      "author": "@HBCoop_",
+      "source": "https://x.com/HBCoop_/status/2122726893984321828",
+      "title": {
+        "en": "Product label detail and full image",
+        "zh": "商品标签的原图与细节",
+        "ja": "商品ラベルの全体と拡大"
+      }
+    },
+    {
+      "author": "@HBCoop_",
+      "source": "https://x.com/HBCoop_/status/2122726966168289361",
+      "title": {
+        "en": "Product detail and web design workflows",
+        "zh": "商品详情页和网页设计工作流",
+        "ja": "商品詳細ページとウェブデザインの作例"
+      }
+    },
+    {
+      "author": "@HBCoop_",
+      "source": "https://x.com/HBCoop_/status/2122727017330380903",
+      "title": {
+        "en": "One bottle in four styles",
+        "zh": "同一瓶身的四种画风",
+        "ja": "同じボトルを4種類のスタイルで表現"
+      }
+    },
+    {
+      "author": "@HBCoop_",
+      "source": "https://x.com/HBCoop_/status/2122727051774034284",
+      "title": {
+        "en": "English and Chinese font comparison",
+        "zh": "中英文海报字体对照",
+        "ja": "英語・中国語のポスター書体比較"
+      }
+    },
+    {
+      "author": "@CharaspowerAI",
+      "source": "https://x.com/CharaspowerAI/status/2122718748599832869",
+      "title": {
+        "en": "Fingertip and glass macro test",
+        "zh": "指尖与玻璃的微距测试",
+        "ja": "指先とガラスのマクロ表現"
+      }
+    },
+    {
+      "author": "@CharaspowerAI",
+      "source": "https://x.com/CharaspowerAI/status/2122718781038567449",
+      "title": {
+        "en": "A character series at multiple angles",
+        "zh": "多角色多视角组图",
+        "ja": "複数のキャラクターを異なる角度から描いたシリーズ"
+      }
+    },
+    {
+      "author": "@CharaspowerAI",
+      "source": "https://x.com/CharaspowerAI/status/2122718806506394061",
+      "title": {
+        "en": "Typography in advertising visuals",
+        "zh": "广告视觉中文字排版",
+        "ja": "広告ビジュアルの文字組み"
+      }
+    },
+    {
+      "author": "@DrSadek_",
+      "source": "https://x.com/DrSadek_/status/2122729546994843939",
+      "title": {
+        "en": "Image experiments with prompts in ALT",
+        "zh": "原图 ALT 中附 Prompt 的试验",
+        "ja": "代替テキストにプロンプトを載せた作例"
+      },
+      "promptSource": "https://x.com/DrSadek_/status/2122729546994843939"
+    },
+    {
+      "author": "@SeeAPIcom",
+      "source": "https://x.com/SeeAPIcom/status/2122943822929993933",
+      "title": {
+        "en": "Five-model greenhouse horror comparison",
+        "zh": "五模型温室恐怖场景对比",
+        "ja": "温室のホラーシーンを5モデルで比較"
+      },
+      "promptSource": "https://x.com/SeeAPIcom/status/2122946501773320331",
+      "models": [
+        "Kling Image 4.0",
+        "GPT Image 2.6",
+        "Seedream 5.5",
+        "MiniMax H3 Image",
+        "Nano Banana Pro"
+      ]
+    },
+    {
+      "author": "@DavidRunsAds",
+      "source": "https://x.com/DavidRunsAds/status/2123043289385550257",
+      "title": {
+        "en": "Three-model phone-photo comparison",
+        "zh": "三模型手机照片对比",
+        "ja": "スマートフォン風写真を3モデルで比較"
+      },
+      "promptSource": "https://x.com/DavidRunsAds/status/2123043460852629592",
+      "models": [
+        "Kling Image 4.0",
+        "Nano Banana 2.1",
+        "GPT Image 2.6"
+      ]
+    },
+    {
+      "author": "@Iancu_ai",
+      "source": "https://x.com/Iancu_ai/status/2123060512284111346",
+      "title": {
+        "en": "Four-model anime poster comparison",
+        "zh": "四模型动画海报对比",
+        "ja": "アニメポスターを4つの画像モデルで比較"
+      },
+      "models": [
+        "Kling Image 4.0",
+        "MiniMax H3 Image",
+        "GPT Image 2.6",
+        "Seedream 5.5"
+      ]
+    },
+    {
+      "author": "@genel_ai",
+      "source": "https://x.com/genel_ai/status/2122859430736019654",
+      "title": {
+        "en": "Four-model portrait texture comparison",
+        "zh": "四模型人像与纹理对比",
+        "ja": "人物写真の質感を4モデルで比較"
+      },
+      "models": [
+        "Kling Image 4.0",
+        "GPT Image 2.6",
+        "Seedream 5.5",
+        "MiniMax H3 Image"
+      ]
+    },
+    {
+      "author": "@seisei_ai_1st",
+      "source": "https://x.com/seisei_ai_1st/status/2122714205253996865",
+      "title": {
+        "en": "Kling and GPT Image Japanese street portraits",
+        "zh": "可灵与 GPT Image 日本街拍对照",
+        "ja": "日本の街頭ポートレートを Kling と GPT Image で比較"
+      },
+      "models": [
+        "Kling Image 4.0",
+        "GPT Image 2.6"
+      ]
+    },
+    {
+      "author": "@TechieBySA",
+      "source": "https://x.com/TechieBySA/status/2122730692706521407",
+      "title": {
+        "en": "Cinematic character texture and detail",
+        "zh": "角色细节与材质测试",
+        "ja": "キャラクターの質感と細部の作例"
+      }
+    },
+    {
+      "author": "@TechieBySA",
+      "source": "https://x.com/TechieBySA/status/2122730696430985384",
+      "title": {
+        "en": "Character consistency across scenes",
+        "zh": "跨场景角色一致性",
+        "ja": "場面をまたいだキャラクターの一貫性"
+      }
+    },
+    {
+      "author": "@akiyoshisan",
+      "source": "https://x.com/akiyoshisan/status/2122890189140111494",
+      "title": {
+        "en": "Four sketches translated into multiple formats",
+        "zh": "四幅手绘角色跨版式转译",
+        "ja": "手描きキャラクター4体のマルチフォーマット展開"
+      }
+    },
+    {
+      "author": "@fAIkout",
+      "source": "https://x.com/fAIkout/status/2122878233263898888",
+      "title": {
+        "en": "Diamond portrait detail study",
+        "zh": "钻石主题人像细节",
+        "ja": "ダイヤモンドを題材にした人物表現"
+      }
+    }
+  ],
+  "featured": [
+    {
+      "slug": "summer-park-reading",
+      "title": {
+        "en": "Reading in a summer park",
+        "zh": "夏日公园读书照"
+      },
+      "preview": "https://cdn.beatapi.io/model-pages/294cbc880ac3ed75bbb627a4ca62f08fd0bbe61016c5b76562d535547c41e625.webp"
+    },
+    {
+      "slug": "storybook-image-set",
+      "title": {
+        "en": "Four-frame storybook",
+        "zh": "四帧绘本组图"
+      },
+      "preview": "https://cdn.beatapi.io/model-pages/c296e4e065b1643f934384fea8eb70c617cb7258e6282455335a80c16ffa3d65.webp"
+    },
+    {
+      "slug": "reference-style-edit",
+      "title": {
+        "en": "Reference-driven style transfer",
+        "zh": "双参考图风格迁移"
+      },
+      "preview": "https://cdn.beatapi.io/model-pages/f390b9373c118b8fd0b9e06cd31d14195c3a49e5aefc2092f168616fe89ca4cd.webp"
+    },
+    {
+      "slug": "ecommerce-long-form",
+      "title": {
+        "en": "Ecommerce product detail page",
+        "zh": "商品详情长图"
+      },
+      "preview": "https://cdn.beatapi.io/model-pages/8888121adbc9173b02dc8b625c7bdee0a7f8a638d9ded49c0110dab12da1cba2.webp"
+    }
   ]
 }

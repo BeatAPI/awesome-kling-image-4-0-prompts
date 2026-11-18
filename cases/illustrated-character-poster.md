@@ -2,7 +2,7 @@
 
 卡通角色海报 · イラストキャラクターのポスター
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/illustrated-character-poster) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Official example published by Kling AI
 

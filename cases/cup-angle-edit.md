@@ -2,7 +2,7 @@
 
 从斜视图推演陶瓷杯俯拍 · カップの写真を真上の構図に変更
 
-[View on BeatAPI](https://beatapi.io/prompts/kling-image-4-0/cup-angle-edit) · [All cases](../README.md)
+[Browse the BeatAPI gallery](https://beatapi.io/kling-image-4-0-prompts) · [All cases](../README.md)
 
 Kling Image 4.0 · Original prompt template · Awaiting generation tests
 
