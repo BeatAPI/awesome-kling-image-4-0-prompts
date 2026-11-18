@@ -2,7 +2,7 @@
 
 # Kling Image 4.0 提示词画廊
 
-31 条社区作品，其中 15 条附作者的原 Prompt 链接。另有 50 条可灵官方参考案例。
+40 条社区作品，其中 15 条附作者的原 Prompt 链接。另有 50 条可灵官方参考案例。
 
 **[BeatAPI 首页](https://beatapi.io)** · **[浏览图库](https://beatapi.io/zh/kling-image-4-0-prompts)** · **[模型预告](https://beatapi.io/zh/kling-4-0-image-api)** · **[English](README.md)** · **[提交案例](https://github.com/BeatAPI/awesome-kling-image-4-0-prompts/issues/new?template=prompt.yml)**
 
@@ -53,7 +53,7 @@
 - [指尖与玻璃的微距测试](https://x.com/CharaspowerAI/status/2122718748599832869) · @CharaspowerAI
 - [多角色多视角组图](https://x.com/CharaspowerAI/status/2122718781038567449) · @CharaspowerAI
 - [广告视觉中文字排版](https://x.com/CharaspowerAI/status/2122718806506394061) · @CharaspowerAI
-- [原图 ALT 中附 Prompt 的试验](https://x.com/DrSadek_/status/2122729546994843939) · @DrSadek_ · [原 Prompt](https://x.com/DrSadek_/status/2122729546994843939)
+- [原图 ALT 中附 Prompt 的试验](https://x.com/DrSadek_/status/2122729546994843939) · @DrSadek_
 - [五模型温室恐怖场景对比](https://x.com/SeeAPIcom/status/2122943822929993933) · @SeeAPIcom · [原 Prompt](https://x.com/SeeAPIcom/status/2122946501773320331) · Kling Image 4.0 / GPT Image 2.6 / Seedream 5.5 / MiniMax H3 Image / Nano Banana Pro
 - [三模型手机照片对比](https://x.com/DavidRunsAds/status/2123043289385550257) · @DavidRunsAds · [原 Prompt](https://x.com/DavidRunsAds/status/2123043460852629592) · Kling Image 4.0 / Nano Banana 2.1 / GPT Image 2.6
 - [四模型动画海报对比](https://x.com/Iancu_ai/status/2123060512284111346) · @Iancu_ai · Kling Image 4.0 / MiniMax H3 Image / GPT Image 2.6 / Seedream 5.5
@@ -63,6 +63,15 @@
 - [跨场景角色一致性](https://x.com/TechieBySA/status/2122730696430985384) · @TechieBySA
 - [四幅手绘角色跨版式转译](https://x.com/akiyoshisan/status/2122890189140111494) · @akiyoshisan
 - [钻石主题人像细节](https://x.com/fAIkout/status/2122878233263898888) · @fAIkout
+- [日文促销单、菜单与报纸排版测试](https://x.com/FalconG_J/status/2122901983178932286) · @FalconG_J · [原 Prompt](https://x.com/FalconG_J/status/2122902441175986681)
+- [电影光线静帧](https://x.com/aipromptsolutio/status/2122999385948815768) · @aipromptsolutio
+- [屋顶故事四页漫画](https://x.com/yachimat_manga/status/2122887567829881058) · @yachimat_manga
+- [奇幻 RPG 环境图](https://x.com/333mic999/status/2123062142014550490) · @333mic999
+- [版画风夏日祭典](https://x.com/aicreataro/status/2122894976321552509) · @aicreataro
+- [以雨为主题的虚构电影海报](https://x.com/shadsoha2026/status/2122902790729293851) · @shadsoha2026
+- [双主题香水广告概念](https://x.com/T_st_love_love/status/2123010827649495267) · @T_st_love_love
+- [原创动画主视觉](https://x.com/neco1751662/status/2123075296337551540) · @neco1751662
+- [街头摄影写实度测试](https://x.com/craftian_keskin/status/2122879615307849736) · @craftian_keskin
 
 ## 官方参考
 

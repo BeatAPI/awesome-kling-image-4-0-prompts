@@ -1941,8 +1941,7 @@
         "en": "Image experiments with prompts in ALT",
         "zh": "原图 ALT 中附 Prompt 的试验",
         "ja": "代替テキストにプロンプトを載せた作例"
-      },
-      "promptSource": "https://x.com/DrSadek_/status/2122729546994843939"
+      }
     },
     {
       "author": "@SeeAPIcom",
@@ -2053,6 +2052,88 @@
         "en": "Diamond portrait detail study",
         "zh": "钻石主题人像细节",
         "ja": "ダイヤモンドを題材にした人物表現"
+      }
+    },
+    {
+      "author": "@FalconG_J",
+      "source": "https://x.com/FalconG_J/status/2122901983178932286",
+      "title": {
+        "en": "Japanese flyer, menu and newspaper text test",
+        "zh": "日文促销单、菜单与报纸排版测试",
+        "ja": "チラシ・メニュー・新聞の日本語文字テスト"
+      },
+      "promptSource": "https://x.com/FalconG_J/status/2122902441175986681"
+    },
+    {
+      "author": "@aipromptsolutio",
+      "source": "https://x.com/aipromptsolutio/status/2122999385948815768",
+      "title": {
+        "en": "Cinematic lighting stills",
+        "zh": "电影光线静帧",
+        "ja": "映画風ライティングのスチル"
+      }
+    },
+    {
+      "author": "@yachimat_manga",
+      "source": "https://x.com/yachimat_manga/status/2122887567829881058",
+      "title": {
+        "en": "Four-page rooftop manga",
+        "zh": "屋顶故事四页漫画",
+        "ja": "屋上を舞台にした4ページ漫画"
+      }
+    },
+    {
+      "author": "@333mic999",
+      "source": "https://x.com/333mic999/status/2123062142014550490",
+      "title": {
+        "en": "Fantasy RPG environment",
+        "zh": "奇幻 RPG 环境图",
+        "ja": "ファンタジー RPG の風景デザイン"
+      }
+    },
+    {
+      "author": "@aicreataro",
+      "source": "https://x.com/aicreataro/status/2122894976321552509",
+      "title": {
+        "en": "Summer festival printmaking scene",
+        "zh": "版画风夏日祭典",
+        "ja": "版画風の夏祭り"
+      }
+    },
+    {
+      "author": "@shadsoha2026",
+      "source": "https://x.com/shadsoha2026/status/2122902790729293851",
+      "title": {
+        "en": "Rain-themed fictional movie poster",
+        "zh": "以雨为主题的虚构电影海报",
+        "ja": "雨を題材にした架空の映画ポスター"
+      }
+    },
+    {
+      "author": "@T_st_love_love",
+      "source": "https://x.com/T_st_love_love/status/2123010827649495267",
+      "title": {
+        "en": "Two-tone perfume campaign concept",
+        "zh": "双主题香水广告概念",
+        "ja": "2つの香りをテーマにした香水広告"
+      }
+    },
+    {
+      "author": "@neco1751662",
+      "source": "https://x.com/neco1751662/status/2123075296337551540",
+      "title": {
+        "en": "Original anime key art",
+        "zh": "原创动画主视觉",
+        "ja": "オリジナルアニメのキービジュアル"
+      }
+    },
+    {
+      "author": "@craftian_keskin",
+      "source": "https://x.com/craftian_keskin/status/2122879615307849736",
+      "title": {
+        "en": "Street photography realism study",
+        "zh": "街头摄影写实度测试",
+        "ja": "ストリート写真風の写実表現"
       }
     }
   ],

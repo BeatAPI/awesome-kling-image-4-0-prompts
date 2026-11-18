@@ -2,7 +2,7 @@
 
 # Awesome Kling Image 4.0 Prompts
 
-31 community examples, including 15 with creator-published prompts. Browse 50 additional official Kling AI references.
+40 community examples, including 15 with creator-published prompts. Browse 50 additional official Kling AI references.
 
 **[BeatAPI home](https://beatapi.io)** · **[Browse the gallery](https://beatapi.io/kling-image-4-0-prompts)** · **[Model preview](https://beatapi.io/kling-4-0-image-api)** · **[中文](README.zh-CN.md)** · **[Contribute a case](https://github.com/BeatAPI/awesome-kling-image-4-0-prompts/issues/new?template=prompt.yml)**
 
@@ -53,7 +53,7 @@ Kling AI official example · [Open the full example](https://beatapi.io/prompts/
 - [Fingertip and glass macro test](https://x.com/CharaspowerAI/status/2122718748599832869) · @CharaspowerAI
 - [A character series at multiple angles](https://x.com/CharaspowerAI/status/2122718781038567449) · @CharaspowerAI
 - [Typography in advertising visuals](https://x.com/CharaspowerAI/status/2122718806506394061) · @CharaspowerAI
-- [Image experiments with prompts in ALT](https://x.com/DrSadek_/status/2122729546994843939) · @DrSadek_ · [Original prompt](https://x.com/DrSadek_/status/2122729546994843939)
+- [Image experiments with prompts in ALT](https://x.com/DrSadek_/status/2122729546994843939) · @DrSadek_
 - [Five-model greenhouse horror comparison](https://x.com/SeeAPIcom/status/2122943822929993933) · @SeeAPIcom · [Original prompt](https://x.com/SeeAPIcom/status/2122946501773320331) · Kling Image 4.0 / GPT Image 2.6 / Seedream 5.5 / MiniMax H3 Image / Nano Banana Pro
 - [Three-model phone-photo comparison](https://x.com/DavidRunsAds/status/2123043289385550257) · @DavidRunsAds · [Original prompt](https://x.com/DavidRunsAds/status/2123043460852629592) · Kling Image 4.0 / Nano Banana 2.1 / GPT Image 2.6
 - [Four-model anime poster comparison](https://x.com/Iancu_ai/status/2123060512284111346) · @Iancu_ai · Kling Image 4.0 / MiniMax H3 Image / GPT Image 2.6 / Seedream 5.5
@@ -63,6 +63,15 @@ Kling AI official example · [Open the full example](https://beatapi.io/prompts/
 - [Character consistency across scenes](https://x.com/TechieBySA/status/2122730696430985384) · @TechieBySA
 - [Four sketches translated into multiple formats](https://x.com/akiyoshisan/status/2122890189140111494) · @akiyoshisan
 - [Diamond portrait detail study](https://x.com/fAIkout/status/2122878233263898888) · @fAIkout
+- [Japanese flyer, menu and newspaper text test](https://x.com/FalconG_J/status/2122901983178932286) · @FalconG_J · [Original prompt](https://x.com/FalconG_J/status/2122902441175986681)
+- [Cinematic lighting stills](https://x.com/aipromptsolutio/status/2122999385948815768) · @aipromptsolutio
+- [Four-page rooftop manga](https://x.com/yachimat_manga/status/2122887567829881058) · @yachimat_manga
+- [Fantasy RPG environment](https://x.com/333mic999/status/2123062142014550490) · @333mic999
+- [Summer festival printmaking scene](https://x.com/aicreataro/status/2122894976321552509) · @aicreataro
+- [Rain-themed fictional movie poster](https://x.com/shadsoha2026/status/2122902790729293851) · @shadsoha2026
+- [Two-tone perfume campaign concept](https://x.com/T_st_love_love/status/2123010827649495267) · @T_st_love_love
+- [Original anime key art](https://x.com/neco1751662/status/2123075296337551540) · @neco1751662
+- [Street photography realism study](https://x.com/craftian_keskin/status/2122879615307849736) · @craftian_keskin
 
 ## Official references
 
