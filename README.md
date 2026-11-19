@@ -2,9 +2,11 @@
 
 # Awesome Kling Image 4.0 Prompts
 
-40 community examples, including 15 with creator-published prompts. Browse 50 additional official Kling AI references.
+4 featured workflows with full prompts and outputs, 40 creator examples on X (15 link to the original prompts), and 50 official Kling AI references.
 
 **[BeatAPI home](https://beatapi.io)** · **[Browse the gallery](https://beatapi.io/kling-image-4-0-prompts)** · **[Model preview](https://beatapi.io/kling-4-0-image-api)** · **[中文](README.zh-CN.md)** · **[Contribute a case](https://github.com/BeatAPI/awesome-kling-image-4-0-prompts/issues/new?template=prompt.yml)**
+
+[Featured workflows](#featured-workflows) · [Creator examples](#creator-examples-on-x) · [Official references](#official-references) · [Prompt templates](TEMPLATES.md)
 
 ## Featured workflows
 

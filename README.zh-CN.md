@@ -2,9 +2,11 @@
 
 # Kling Image 4.0 提示词画廊
 
-40 条社区作品，其中 15 条附作者的原 Prompt 链接。另有 50 条可灵官方参考案例。
+4 条可查看原词和出图的精选工作流，40 条 X 社区作品（其中 15 条附作者提示词链接），以及 50 条可灵官方参考案例。
 
 **[BeatAPI 首页](https://beatapi.io)** · **[浏览图库](https://beatapi.io/zh/kling-image-4-0-prompts)** · **[模型预告](https://beatapi.io/zh/kling-4-0-image-api)** · **[English](README.md)** · **[提交案例](https://github.com/BeatAPI/awesome-kling-image-4-0-prompts/issues/new?template=prompt.yml)**
+
+[精选工作流](#精选工作流) · [社区原帖](#社区原帖) · [官方参考](#官方参考) · [原创模板](TEMPLATES.md)
 
 ## 精选工作流
 
